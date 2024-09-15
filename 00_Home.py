@@ -25,9 +25,8 @@ with col1:
 with col2:
                 
     st.page_link("pages/01_Apresentação.py", label="Entendimento do problema de negócio", icon="📊")
-    st.page_link("pages/02_Análise_Exploratória.py", label="Tratamento dos dados (_data cleaning_)", icon="🛠️")
-    st.page_link("pages/02_Análise_Exploratória.py", label="Análise exploratória dos dados", icon="🔍")
-    st.page_link("pages/03_Modelos_Preditivos.py", label="Avaliação do modelo preditivo", icon="📈")
+    st.page_link("pages/02_Análise_Exploratória.py", label="Base de dados e Análise Exploratória", icon="🛠️🔍")
+    st.page_link("pages/03_Modelos_Preditivos.py", label="Modelos preditivos", icon="📈")
     st.page_link("pages/04_Observações.py", label="Observações (ou _insights_)", icon="💡")
 
 
