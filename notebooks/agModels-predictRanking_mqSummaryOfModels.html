@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Models produced during fit()</title>
+    <style>
+      html, body {
+        box-sizing: border-box;
+        display: flow-root;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+    <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-3.5.2.min.js"></script>
+    <script type="text/javascript">
+        Bokeh.set_log_level("info");
+    </script>
+  </head>
+  <body>
+    <div id="e57c4875-58f1-4629-b2db-69abbe6a914a" data-root-id="p1005" style="display: contents;"></div>
+  
+    <script type="application/json" id="d24f94d3-a2de-4e1f-b33e-c7e97b6a3471">
+      {"4fd67ad5-6a57-4690-b9eb-75b85bc84cb9":{"version":"3.5.2","title":"Bokeh Application","roots":[{"type":"object","name":"Figure","id":"p1005","attributes":{"x_range":{"type":"object","name":"DataRange1d","id":"p1006"},"y_range":{"type":"object","name":"DataRange1d","id":"p1007"},"x_scale":{"type":"object","name":"LinearScale","id":"p1015"},"y_scale":{"type":"object","name":"LinearScale","id":"p1016"},"title":{"type":"object","name":"Title","id":"p1008","attributes":{"text":"Models produced during fit()"}},"renderers":[{"type":"object","name":"GlyphRenderer","id":"p1047","attributes":{"data_source":{"type":"object","name":"ColumnDataSource","id":"p1002","attributes":{"selected":{"type":"object","name":"Selection","id":"p1003","attributes":{"indices":[],"line_indices":[]}},"selection_policy":{"type":"object","name":"UnionRenderers","id":"p1004"},"data":{"type":"map","entries":[["performance",[0.3117408906882591,0.3441295546558704,0.41295546558704455,0.4979757085020243,0.6032388663967612,0.5546558704453441,0.5587044534412956,0.611336032388664,0.46153846153846156,0.4817813765182186,0.6072874493927125,0.3967611336032389,0.562753036437247,0.611336032388664]],["model",["KNeighborsUnif","KNeighborsDist","NeuralNetFastAI","LightGBMXT","LightGBM","RandomForestGini","RandomForestEntr","CatBoost","ExtraTreesGini","ExtraTreesEntr","XGBoost","NeuralNetTorch","LightGBMLarge","WeightedEnsemble_L2"]],["model_type",["KNNModel","KNNModel","NNFastAiTabularModel","LGBModel","LGBModel","RFModel","RFModel","CatBoostModel","XTModel","XTModel","XGBoostModel","TabularNeuralNetTorchModel","LGBModel","WeightedEnsembleModel"]],["hyperparameters",["weights: uniform","weights: distance","layers: None&lt;br&gt;emb_drop: 0.1&lt;br&gt;ps: 0.1&lt;br&gt;bs: auto&lt;br&gt;lr: 0.01&lt;br&gt;epochs: auto&lt;br&gt;early.stopping.min_delta: 0.0001&lt;br&gt;early.stopping.patience: 20&lt;br&gt;smoothing: 0.0","learning_rate: 0.05&lt;br&gt;extra_trees: True","learning_rate: 0.05","n_estimators: 300&lt;br&gt;max_leaf_nodes: 15000&lt;br&gt;n_jobs: -1&lt;br&gt;random_state: 0&lt;br&gt;bootstrap: True&lt;br&gt;criterion: gini","n_estimators: 300&lt;br&gt;max_leaf_nodes: 15000&lt;br&gt;n_jobs: -1&lt;br&gt;random_state: 0&lt;br&gt;bootstrap: True&lt;br&gt;criterion: entropy","iterations: 10000&lt;br&gt;learning_rate: 0.05&lt;br&gt;random_seed: 0&lt;br&gt;allow_writing_files: False&lt;br&gt;eval_metric: Accuracy","n_estimators: 300&lt;br&gt;max_leaf_nodes: 15000&lt;br&gt;n_jobs: -1&lt;br&gt;random_state: 0&lt;br&gt;bootstrap: True&lt;br&gt;criterion: gini","n_estimators: 300&lt;br&gt;max_leaf_nodes: 15000&lt;br&gt;n_jobs: -1&lt;br&gt;random_state: 0&lt;br&gt;bootstrap: True&lt;br&gt;criterion: entropy","n_estimators: 10000&lt;br&gt;learning_rate: 0.1&lt;br&gt;n_jobs: -1&lt;br&gt;proc.max_category_levels: 100&lt;br&gt;objective: multi:softprob&lt;br&gt;booster: gbtree&lt;br&gt;num_class: 10","num_epochs: 500&lt;br&gt;epochs_wo_improve: 20&lt;br&gt;activation: relu&lt;br&gt;embedding_size_factor: 1.0&lt;br&gt;embed_exponent: 0.56&lt;br&gt;max_embedding_dim: 100&lt;br&gt;y_range: None&lt;br&gt;y_range_extend: 0.05&lt;br&gt;dropout_prob: 0.1&lt;br&gt;optimizer: adam&lt;br&gt;learning_rate: 0.0003&lt;br&gt;weight_decay: 1e-06&lt;br&gt;proc.embed_min_categories: 4&lt;br&gt;proc.impute_strategy: median&lt;br&gt;proc.max_category_levels: 100&lt;br&gt;proc.skew_threshold: 0.99&lt;br&gt;use_ngram_features: False&lt;br&gt;num_layers: 4&lt;br&gt;hidden_size: 128&lt;br&gt;max_batch_size: 512&lt;br&gt;use_batchnorm: False&lt;br&gt;loss_function: auto","learning_rate: 0.03&lt;br&gt;num_leaves: 128&lt;br&gt;feature_fraction: 0.9&lt;br&gt;min_data_in_leaf: 3","use_orig_features: False&lt;br&gt;max_base_models: 25&lt;br&gt;max_base_models_per_type: 5&lt;br&gt;save_bag_folds: True"]],["inference_latency",[0.026384830474853516,0.023541927337646484,0.01870107650756836,0.010102033615112305,0.003996372222900391,0.173537015914917,0.16820955276489258,0.004602670669555664,0.16490721702575684,0.1767582893371582,0.010040044784545898,0.011769771575927734,0.004477739334106445,0.0055713653564453125]],["training_time",[0.11124420166015625,0.020599365234375,6.143148899078369,2.366694927215576,2.176227569580078,0.9027621746063232,1.4649403095245361,3.5669479370117188,1.4759547710418701,1.547053337097168,16.03573966026306,5.278874635696411,4.26688814163208,3.733030319213867]]]}}},"view":{"type":"object","name":"CDSView","id":"p1048","attributes":{"filter":{"type":"object","name":"AllIndices","id":"p1049"}}},"glyph":{"type":"object","name":"Scatter","id":"p1044","attributes":{"x":{"type":"field","field":"inference_latency"},"y":{"type":"field","field":"performance"},"size":{"type":"value","value":20},"line_color":{"type":"field","field":"model_type","transform":{"type":"object","name":"CategoricalColorMapper","id":"p1001","attributes":{"palette":["#1f77b4","#ff7f0e","#2ca02c","#d62728","#9467bd","#8c564b","#e377c2","#7f7f7f","#bcbd22"],"factors":["XGBoostModel","CatBoostModel","RFModel","LGBModel","WeightedEnsembleModel","KNNModel","NNFastAiTabularModel","TabularNeuralNetTorchModel","XTModel"]}}},"line_alpha":{"type":"value","value":0.5},"fill_color":{"type":"field","field":"model_type","transform":{"id":"p1001"}},"fill_alpha":{"type":"value","value":0.5}}},"nonselection_glyph":{"type":"object","name":"Scatter","id":"p1045","attributes":{"x":{"type":"field","field":"inference_latency"},"y":{"type":"field","field":"performance"},"size":{"type":"value","value":20},"line_color":{"type":"field","field":"model_type","transform":{"id":"p1001"}},"line_alpha":{"type":"value","value":0.1},"fill_color":{"type":"field","field":"model_type","transform":{"id":"p1001"}},"fill_alpha":{"type":"value","value":0.1},"hatch_alpha":{"type":"value","value":0.1}}},"muted_glyph":{"type":"object","name":"Scatter","id":"p1046","attributes":{"x":{"type":"field","field":"inference_latency"},"y":{"type":"field","field":"performance"},"size":{"type":"value","value":20},"line_color":{"type":"field","field":"model_type","transform":{"id":"p1001"}},"line_alpha":{"type":"value","value":0.2},"fill_color":{"type":"field","field":"model_type","transform":{"id":"p1001"}},"fill_alpha":{"type":"value","value":0.2},"hatch_alpha":{"type":"value","value":0.2}}}}}],"toolbar":{"type":"object","name":"Toolbar","id":"p1014","attributes":{"tools":[{"type":"object","name":"CrosshairTool","id":"p1027"},{"type":"object","name":"PanTool","id":"p1028"},{"type":"object","name":"WheelZoomTool","id":"p1029","attributes":{"renderers":"auto"}},{"type":"object","name":"BoxZoomTool","id":"p1030","attributes":{"overlay":{"type":"object","name":"BoxAnnotation","id":"p1031","attributes":{"syncable":false,"line_color":"black","line_alpha":1.0,"line_width":2,"line_dash":[4,4],"fill_color":"lightgrey","fill_alpha":0.5,"level":"overlay","visible":false,"left":{"type":"number","value":"nan"},"right":{"type":"number","value":"nan"},"top":{"type":"number","value":"nan"},"bottom":{"type":"number","value":"nan"},"left_units":"canvas","right_units":"canvas","top_units":"canvas","bottom_units":"canvas","handles":{"type":"object","name":"BoxInteractionHandles","id":"p1037","attributes":{"all":{"type":"object","name":"AreaVisuals","id":"p1036","attributes":{"fill_color":"white","hover_fill_color":"lightgray"}}}}}}}},{"type":"object","name":"ResetTool","id":"p1038"},{"type":"object","name":"HoverTool","id":"p1039","attributes":{"renderers":"auto","tooltips":[["performance","@performance{safe}"],["model","@model{safe}"],["model_type","@model_type{safe}"],["hyperparameters","@hyperparameters{safe}"],["inference_latency","@inference_latency{safe}"],["training_time","@training_time{safe}"]]}},{"type":"object","name":"SaveTool","id":"p1040"}]}},"left":[{"type":"object","name":"LinearAxis","id":"p1022","attributes":{"ticker":{"type":"object","name":"BasicTicker","id":"p1023","attributes":{"mantissas":[1,2,5]}},"formatter":{"type":"object","name":"BasicTickFormatter","id":"p1024"},"axis_label":"performance","major_label_policy":{"type":"object","name":"AllLabels","id":"p1025"}}}],"right":[{"type":"object","name":"Legend","id":"p1059","attributes":{"location":[0,0],"items":[{"type":"object","name":"LegendItem","id":"p1050","attributes":{"label":{"type":"value","value":"XGBoostModel"},"renderers":[{"id":"p1047"}],"index":10}},{"type":"object","name":"LegendItem","id":"p1051","attributes":{"label":{"type":"value","value":"CatBoostModel"},"renderers":[{"id":"p1047"}],"index":7}},{"type":"object","name":"LegendItem","id":"p1052","attributes":{"label":{"type":"value","value":"RFModel"},"renderers":[{"id":"p1047"}],"index":5}},{"type":"object","name":"LegendItem","id":"p1053","attributes":{"label":{"type":"value","value":"LGBModel"},"renderers":[{"id":"p1047"}],"index":3}},{"type":"object","name":"LegendItem","id":"p1054","attributes":{"label":{"type":"value","value":"WeightedEnsembleModel"},"renderers":[{"id":"p1047"}],"index":13}},{"type":"object","name":"LegendItem","id":"p1055","attributes":{"label":{"type":"value","value":"KNNModel"},"renderers":[{"id":"p1047"}],"index":0}},{"type":"object","name":"LegendItem","id":"p1056","attributes":{"label":{"type":"value","value":"NNFastAiTabularModel"},"renderers":[{"id":"p1047"}],"index":2}},{"type":"object","name":"LegendItem","id":"p1057","attributes":{"label":{"type":"value","value":"TabularNeuralNetTorchModel"},"renderers":[{"id":"p1047"}],"index":11}},{"type":"object","name":"LegendItem","id":"p1058","attributes":{"label":{"type":"value","value":"XTModel"},"renderers":[{"id":"p1047"}],"index":8}}]}}],"below":[{"type":"object","name":"LinearAxis","id":"p1017","attributes":{"ticker":{"type":"object","name":"BasicTicker","id":"p1018","attributes":{"mantissas":[1,2,5]}},"formatter":{"type":"object","name":"BasicTickFormatter","id":"p1019"},"axis_label":"inference_latency","major_label_policy":{"type":"object","name":"AllLabels","id":"p1020"}}}],"center":[{"type":"object","name":"Grid","id":"p1021","attributes":{"axis":{"id":"p1017"}}},{"type":"object","name":"Grid","id":"p1026","attributes":{"dimension":1,"axis":{"id":"p1022"}}}]}}]}}
+    </script>
+    <script type="text/javascript">
+      (function() {
+        const fn = function() {
+          Bokeh.safely(function() {
+            (function(root) {
+              function embed_document(root) {
+              const docs_json = document.getElementById('d24f94d3-a2de-4e1f-b33e-c7e97b6a3471').textContent;
+              const render_items = [{"docid":"4fd67ad5-6a57-4690-b9eb-75b85bc84cb9","roots":{"p1005":"e57c4875-58f1-4629-b2db-69abbe6a914a"},"root_ids":["p1005"]}];
+              root.Bokeh.embed.embed_items(docs_json, render_items);
+              }
+              if (root.Bokeh !== undefined) {
+                embed_document(root);
+              } else {
+                let attempts = 0;
+                const timer = setInterval(function(root) {
+                  if (root.Bokeh !== undefined) {
+                    clearInterval(timer);
+                    embed_document(root);
+                  } else {
+                    attempts++;
+                    if (attempts > 100) {
+                      clearInterval(timer);
+                      console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                    }
+                  }
+                }, 10, root)
+              }
+            })(window);
+          });
+        };
+        if (document.readyState != "loading") fn();
+        else document.addEventListener("DOMContentLoaded", fn);
+      })();
+    </script>
+  </body>
+</html>

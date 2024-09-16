@@ -6,5 +6,7 @@ notebooks/AutogluonModels
 notebooks/agModels-predictRanking
 notebooks/agModels-predictPedra
 notebooks/agModels-predictBolsista
+notebooks/agModels-predictRanking_mq
+notebooks/catboost_info
 
 
