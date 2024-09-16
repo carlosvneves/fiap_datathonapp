@@ -1,0 +1,687 @@
+fase,turma,instituicao_ensino_aluno,sinalizador_ingressante,pedra,inde,iaa,ieg,ips,ida,ipp,rec_equipe_1,rec_equipe_2,rec_equipe_3,rec_equipe_4,ponto_virada,ipv,ian,nivel_ideal,defasagem,sexo,corraca
+2.0,G,Rede Decisão,Ingressante,Ametista,7.319,7.5,6.3,6.9,8.8,7.7,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.1,5.0,Nível 3 (7o e 8o ano),-1.0,F,R
+3.0,F,Escola Pública,Veterano,Ametista,7.021,7.1,6.9,6.3,5.6,7.3,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.2,10.0,Nível 3 (7o e 8o ano),0.0,F,B
+2.0,L,Escola Pública,Veterano,Ametista,7.399,7.4,7.5,7.5,5.4,8.5,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.4,10.0,Nível 2 (5o e 6o ano),0.0,M,R
+5.0,L,Rede Decisão,Veterano,Topázio,8.269,8.8,8.6,7.5,7.1,8.0,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não,8.5,10.0,Nível 5 (1o EM),0.0,F,R
+1.0,A,Rede Decisão,Veterano,Topázio,8.990,9.0,10.0,6.3,8.8,7.7,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Sim,9.7,10.0,Nível 1 (4o ano),0.0,M,R
+0.0,T,Escola Pública,Ingressante,Quartzo,3.413,8.0,0.0,7.5,0.8,0.0,Não avaliado,Não avaliado,Não avaliado,Não avaliado,Não,6.0,5.0,Nível 1 (4o ano),-1.0,F,B
+1.0,G,Escola Pública,Veterano,Ágata,6.140,9.5,4.2,7.5,2.6,8.4,Não avaliado,Mantido na Fase atual,Mantido na Fase + Bolsa,Não avaliado,Não,8.8,5.0,Nível 3 (7o e 8o ano),-2.0,M,B
+4.0,F,Escola Pública,Veterano,Ágata,5.666,10.0,3.3,6.3,5.3,7.7,Mantido na Fase atual,Promovido de Fase + Bolsa,Mantido na Fase atual,Mantido na Fase atual,Não,5.2,5.0,Nível 5 (1o EM),-1.0,M,B
+2.0,C,Escola Pública,Ingressante,Ágata,6.751,9.0,6.3,7.5,4.6,7.7,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.3,5.0,Nível 3 (7o e 8o ano),-1.0,M,R
+4.0,G,Rede Decisão,Ingressante,Topázio,9.079,8.3,9.2,7.5,8.8,9.4,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Sim,9.9,10.0,Nível 4 (9o ano),0.0,F,R
+3.0,D,Escola Pública,Ingressante,Ágata,6.342,9.6,5.3,7.5,3.8,7.5,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.9,5.0,Nível 5 (1o EM),-2.0,F,R
+2.0,C,Escola Pública,Veterano,Ágata,6.129,6.9,2.9,7.5,5.5,7.7,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.7,5.0,Nível 3 (7o e 8o ano),-1.0,F,R
+7.0,A,Escola Pública,Veterano,Topázio,8.416,9.2,9.4,7.5,8.2,8.4,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Sim,9.4,5.0,Nível 8 (Universitários),-1.0,F,B
+3.0,C,Escola Pública,Veterano,Ágata,6.246,8.3,6.4,3.8,4.7,7.3,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.9,5.0,Nível 5 (1o EM),-2.0,F,R
+2.0,N,Escola Pública,Veterano,Ágata,6.154,0.0,5.4,6.9,6.5,7.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.7,10.0,Nível 2 (5o e 6o ano),0.0,M,R
+3.0,L,Escola Pública,Ingressante,Ágata,6.847,3.8,6.9,7.5,5.1,7.5,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.8,10.0,Nível 3 (7o e 8o ano),0.0,F,B
+5.0,B,Escola Pública,Ingressante,Ametista,7.334,9.2,7.8,7.5,6.0,8.3,Promovido de Fase + Bolsa,Mantido na Fase atual,Promovido de Fase + Bolsa,Mantido na Fase atual,Não,8.0,5.0,Nível 6 (2o EM),-1.0,M,B
+2.0,C,Escola Pública,Veterano,Ágata,6.100,0.0,5.0,7.5,6.8,7.5,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.8,5.0,Nível 3 (7o e 8o ano),-1.0,M,R
+0.0,J,Escola Pública,Ingressante,Ágata,6.802,10.0,6.7,7.5,4.0,7.2,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.0,10.0,ALFA  (2o e 3o ano),0.0,M,B
+0.0,P,Escola Pública,Veterano,Topázio,8.471,8.5,10.0,7.5,6.9,8.1,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.4,10.0,ALFA  (2o e 3o ano),0.0,F,R
+1.0,A,Escola Pública,Ingressante,Ágata,6.056,8.5,6.3,7.5,4.0,7.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.8,5.0,Nível 2 (5o e 6o ano),-1.0,M,B
+1.0,F,Escola Pública,Ingressante,Ametista,8.051,9.0,9.2,7.5,5.4,7.7,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.6,10.0,Nível 1 (4o ano),0.0,M,R
+3.0,B,Escola Pública,Ingressante,Ágata,6.388,7.5,5.8,7.5,4.1,7.3,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,5.8,10.0,Nível 3 (7o e 8o ano),0.0,F,B
+7.0,A,Rede Decisão,Veterano,Ametista,8.219,9.6,8.9,8.1,7.6,8.1,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Sim,9.2,5.0,Nível 8 (Universitários),-1.0,F,B
+6.0,A,Escola Pública,Ingressante,Ágata,6.777,8.8,7.5,5.6,5.5,7.8,Promovido de Fase,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não,7.2,5.0,Nível 7 (3o EM),-1.0,M,B
+7.0,A,Rede Decisão,Veterano,Ametista,7.213,8.3,6.9,6.3,6.0,7.7,Mantido na Fase atual,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não,7.0,10.0,Nível 7 (3o EM),0.0,M,B
+6.0,C,Rede Decisão,Veterano,Ametista,6.956,7.9,7.5,6.9,6.1,7.2,Mantido na Fase atual,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não,7.7,5.0,Nível 8 (Universitários),-2.0,M,R
+1.0,M,Escola Pública,Veterano,Quartzo,3.017,0.0,1.3,5.6,0.0,6.9,Mantido na Fase atual,Não avaliado,Mantido na Fase atual,Não avaliado,Não,5.1,5.0,Nível 2 (5o e 6o ano),-1.0,F,P
+2.0,L,Escola Pública,Veterano,Ágata,5.704,8.5,4.6,7.5,3.1,8.1,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.2,5.0,Nível 3 (7o e 8o ano),-1.0,M,B
+0.0,R,Escola Pública,Ingressante,Topázio,8.438,10.0,10.0,7.5,6.9,8.1,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Não avaliado,Não avaliado,Sim,10.0,5.0,Nível 1 (4o ano),-1.0,M,B
+2.0,E,Escola Pública,Ingressante,Ágata,6.875,8.0,6.3,7.5,5.9,8.5,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,7.7,5.0,Nível 3 (7o e 8o ano),-1.0,F,R
+1.0,J,Escola Pública,Ingressante,Quartzo,4.939,7.4,3.3,7.5,1.1,8.3,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.1,5.0,Nível 2 (5o e 6o ano),-1.0,F,R
+0.0,J,Escola Pública,Veterano,#NULO!,#NULO!,7.4,0.0,5.0,3.6,0.0,Não avaliado,Não avaliado,Não avaliado,Não avaliado,#NULO!,0.0,5.0,Nível 2 (5o e 6o ano),-2.0,F,P
+4.0,L,Rede Decisão,Veterano,Topázio,9.108,10.0,9.2,7.5,8.5,8.8,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Sim,9.7,10.0,Nível 3 (7o e 8o ano),1.0,F,R
+1.0,B,Escola Pública,Veterano,Topázio,8.869,10.0,10.0,7.5,7.6,7.5,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Sim,9.2,10.0,ALFA  (2o e 3o ano),1.0,F,B
+0.0,J,Escola Pública,Ingressante,Ametista,7.854,9.5,10.0,7.5,6.4,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.1,5.0,Nível 1 (4o ano),-1.0,F,B
+1.0,B,Escola Pública,Ingressante,Ágata,6.339,8.9,9.2,7.5,2.6,7.3,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.6,5.0,Nível 2 (5o e 6o ano),-1.0,F,R
+5.0,L,Rede Decisão,Veterano,Ágata,6.188,6.3,5.8,2.5,6.5,8.1,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não,7.7,5.0,Nível 6 (2o EM),-1.0,F,A
+5.0,B,Rede Decisão,Veterano,Ágata,5.987,6.7,6.4,3.8,3.0,7.3,Promovido de Fase + Bolsa,Mantido na Fase atual,Promovido de Fase + Bolsa,Mantido na Fase atual,Não,6.7,10.0,Nível 5 (1o EM),0.0,F,B
+1.0,A,Escola Pública,Ingressante,Ametista,7.867,3.5,10.0,7.5,6.8,7.5,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.3,10.0,Nível 1 (4o ano),0.0,F,B
+0.0,P,Escola Pública,Veterano,Ágata,6.652,9.5,6.7,6.3,6.9,4.7,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.0,5.0,Nível 2 (5o e 6o ano),-2.0,M,B
+5.0,L,Rede Decisão,Veterano,Ametista,8.004,7.9,7.8,7.5,7.8,8.1,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não,7.7,10.0,Nível 5 (1o EM),0.0,F,B
+2.0,D,Rede Decisão,Veterano,Ametista,8.096,9.5,9.6,6.3,7.4,8.1,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Sim,9.1,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+4.0,L,Escola Pública,Veterano,Ágata,5.994,7.1,5.0,7.5,4.6,7.2,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Promovido de Fase,Não,7.0,5.0,Nível 5 (1o EM),-1.0,M,R
+2.0,H,Escola Pública,Veterano,Quartzo,4.200,9.5,0.0,7.5,2.2,5.6,Mantido na Fase atual,Não avaliado,Não avaliado,Não avaliado,Não,2.5,10.0,Nível 2 (5o e 6o ano),0.0,F,B
+0.0,L,Escola Pública,Ingressante,Ágata,6.248,8.0,4.2,7.5,5.1,6.6,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,5.9,10.0,ALFA  (2o e 3o ano),0.0,F,P
+4.0,F,Escola Pública,Ingressante,Ágata,5.923,7.5,3.6,7.5,4.6,7.3,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Promovido de Fase,Não,5.2,10.0,Nível 3 (7o e 8o ano),1.0,F,B
+4.0,F,Escola Pública,Veterano,Quartzo,4.957,8.3,5.6,7.5,1.3,6.9,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,4.1,5.0,Nível 6 (2o EM),-2.0,F,R
+2.0,D,Escola Pública,Veterano,Ágata,6.317,8.0,5.8,7.5,5.8,7.5,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,6.0,5.0,Nível 3 (7o e 8o ano),-1.0,F,R
+3.0,D,Escola Pública,Ingressante,Ametista,6.953,9.2,6.4,7.5,6.3,7.5,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.5,5.0,Nível 4 (9o ano),-1.0,F,R
+1.0,M,Escola Pública,Veterano,Quartzo,3.117,8.5,0.0,3.8,0.0,6.3,Mantido na Fase atual,Não avaliado,Mantido na Fase atual,Não avaliado,Não,3.8,5.0,Nível 3 (7o e 8o ano),-2.0,F,R
+1.0,J,Escola Pública,Veterano,Ágata,6.704,6.3,7.5,7.5,4.8,7.9,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.8,5.0,Nível 2 (5o e 6o ano),-1.0,M,R
+1.0,F,Escola Pública,Veterano,Ametista,8.076,9.5,8.8,6.3,6.2,7.9,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.6,10.0,Nível 1 (4o ano),0.0,F,B
+0.0,J,Escola Pública,Ingressante,Ametista,8.010,9.0,10.0,7.5,6.4,7.2,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.8,10.0,ALFA  (2o e 3o ano),0.0,M,P
+4.0,E,Escola Pública,Veterano,Quartzo,4.956,10.0,1.1,7.5,2.8,6.7,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,3.7,10.0,Nível 4 (9o ano),0.0,F,B
+1.0,N,Escola Pública,Veterano,Ametista,8.242,10.0,7.9,7.5,7.9,8.3,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Sim,10.0,5.0,Nível 2 (5o e 6o ano),-1.0,F,R
+6.0,A,Escola Pública,Ingressante,Ametista,7.360,7.5,6.7,7.5,7.8,8.4,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não,8.2,5.0,Nível 7 (3o EM),-1.0,F,B
+4.0,L,Escola Pública,Veterano,Ametista,7.222,8.3,8.1,7.5,6.0,8.4,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Não,7.4,5.0,Nível 5 (1o EM),-1.0,F,B
+4.0,F,Escola Pública,Ingressante,Ágata,6.098,9.2,3.1,6.9,6.2,7.7,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Promovido de Fase,Não,6.9,5.0,Nível 5 (1o EM),-1.0,F,B
+2.0,K,Escola Pública,Veterano,Ágata,6.664,9.5,7.1,7.5,4.6,8.1,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.6,5.0,Nível 3 (7o e 8o ano),-1.0,F,P
+2.0,N,Escola Pública,Veterano,Ametista,7.774,8.5,7.1,7.5,7.1,8.3,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.6,10.0,Nível 2 (5o e 6o ano),0.0,F,P
+1.0,B,Escola Pública,Veterano,Topázio,8.299,8.5,9.6,7.5,6.9,7.5,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.2,10.0,Nível 1 (4o ano),0.0,F,R
+1.0,A,Escola Pública,Veterano,Ametista,7.096,8.5,8.3,7.5,6.1,7.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.8,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+0.0,T,Escola Pública,Ingressante,Topázio,8.275,9.0,8.3,7.5,6.1,8.1,Promovido de Fase,Promovido de Fase,Não avaliado,Não avaliado,Sim,9.7,10.0,ALFA  (2o e 3o ano),0.0,M,R
+2.0,P,Escola Pública,Veterano,Ágata,6.461,6.3,4.6,7.5,4.6,7.9,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,7.2,10.0,Nível 2 (5o e 6o ano),0.0,M,R
+0.0,P,Escola Pública,Ingressante,Ágata,6.069,9.0,4.2,7.5,4.5,7.2,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.3,5.0,Nível 1 (4o ano),-1.0,F,P
+1.0,A,Escola Pública,Ingressante,Ametista,6.907,10.0,7.1,7.5,5.6,7.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.9,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+0.0,I,Escola Pública,Veterano,Quartzo,5.229,7.9,6.7,4.4,4.0,2.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,5.6,5.0,Nível 2 (5o e 6o ano),-2.0,F,B
+2.0,H,Escola Pública,Ingressante,Ágata,5.819,7.4,4.2,7.5,4.6,7.2,Mantido na Fase atual,Não avaliado,Mantido na Fase atual,Não avaliado,Não,4.3,10.0,Nível 2 (5o e 6o ano),0.0,F,P
+1.0,F,Escola Pública,Veterano,Ametista,7.990,9.5,9.6,7.5,7.1,7.7,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.4,5.0,Nível 2 (5o e 6o ano),-1.0,M,R
+1.0,A,Escola Pública,Veterano,Ágata,5.788,9.5,4.2,6.3,3.6,6.9,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.3,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+0.0,R,Escola Pública,Ingressante,Ágata,6.012,8.0,5.8,7.5,5.3,5.0,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.2,5.0,Nível 1 (4o ano),-1.0,F,B
+3.0,H,Escola Pública,Ingressante,Ágata,6.278,7.9,4.4,6.3,4.3,7.5,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.8,10.0,Nível 3 (7o e 8o ano),0.0,M,B
+7.0,A,Rede Decisão,Veterano,Topázio,8.360,8.8,8.1,6.9,7.4,8.3,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Sim,9.4,10.0,Nível 7 (3o EM),0.0,F,B
+2.0,J,Rede Decisão,Veterano,Topázio,9.004,9.5,9.6,8.1,9.1,10.0,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Sim,10.0,5.0,Nível 3 (7o e 8o ano),-1.0,M,B
+3.0,B,Rede Decisão,Veterano,Topázio,8.672,8.8,8.3,7.5,8.0,8.3,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Sim,9.8,10.0,Nível 3 (7o e 8o ano),0.0,F,B
+4.0,F,Rede Decisão,Veterano,Topázio,8.355,10.0,7.5,7.5,7.5,8.0,Promovido de Fase,Promovido de Fase,Promovido de Fase,Promovido de Fase,Sim,9.0,10.0,Nível 4 (9o ano),0.0,M,P
+1.0,N,Escola Pública,Veterano,Quartzo,5.163,9.5,2.9,7.5,1.5,8.1,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.3,5.0,Nível 2 (5o e 6o ano),-1.0,M,B
+6.0,C,Escola Pública,Ingressante,Quartzo,5.082,7.1,5.3,0.0,3.4,8.1,Mantido na Fase + Bolsa,Promovido de Fase,Não avaliado,Não avaliado,Não,6.6,5.0,Nível 7 (3o EM),-1.0,M,B
+3.0,J,Rede Decisão,Veterano,Ametista,7.981,7.5,7.8,6.3,7.3,8.3,Mantido na Fase atual,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.8,10.0,Nível 3 (7o e 8o ano),0.0,M,B
+4.0,F,Escola Pública,Veterano,Ágata,6.056,8.3,6.1,6.9,4.5,6.9,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não,6.1,5.0,Nível 5 (1o EM),-1.0,F,B
+0.0,O,Escola Pública,Ingressante,Ametista,8.025,9.0,10.0,7.5,6.1,8.1,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Sim,9.3,5.0,Nível 1 (4o ano),-1.0,F,R
+1.0,B,Escola Pública,Veterano,Ametista,7.531,8.5,10.0,7.5,6.6,7.5,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,6.8,5.0,Nível 2 (5o e 6o ano),-1.0,M,P
+2.0,C,Escola Pública,Veterano,Ametista,7.125,9.5,5.8,7.5,5.9,7.5,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.7,10.0,Nível 2 (5o e 6o ano),0.0,F,B
+1.0,R,Escola Pública,Veterano,Ametista,7.579,10.0,7.5,7.5,7.3,8.3,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,7.7,5.0,Nível 3 (7o e 8o ano),-2.0,F,B
+1.0,A,Escola Pública,Ingressante,Ametista,7.639,10.0,9.2,7.5,5.8,7.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.3,5.0,Nível 2 (5o e 6o ano),-1.0,F,A
+2.0,R,Escola Pública,Veterano,Quartzo,3.524,0.0,1.7,5.6,2.5,7.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,4.4,5.0,Nível 3 (7o e 8o ano),-1.0,F,R
+0.0,I,Escola Pública,Veterano,Ametista,6.898,8.5,10.0,4.4,6.1,5.3,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.8,5.0,Nível 1 (4o ano),-1.0,F,R
+3.0,A,Escola Pública,Ingressante,Ametista,8.036,8.8,8.9,7.5,7.5,8.3,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Não avaliado,Sim,9.0,5.0,Nível 4 (9o ano),-1.0,F,B
+5.0,F,Escola Pública,Veterano,Ágata,6.532,9.6,6.7,5.0,4.9,7.7,Mantido na Fase atual,Mantido na Fase + Bolsa,Promovido de Fase,Mantido na Fase atual,Não,7.5,5.0,Nível 7 (3o EM),-2.0,F,R
+2.0,I,Escola Pública,Veterano,Ágata,5.674,7.5,6.3,5.0,4.3,6.7,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.7,5.0,Nível 3 (7o e 8o ano),-1.0,F,R
+0.0,L,Escola Pública,Ingressante,Ametista,7.196,9.0,8.3,7.5,4.6,6.9,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.3,10.0,ALFA  (2o e 3o ano),0.0,F,B
+2.0,I,Escola Pública,Ingressante,Ametista,7.896,8.5,9.2,7.5,5.6,7.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.0,10.0,Nível 2 (5o e 6o ano),0.0,M,R
+0.0,M,Escola Pública,Ingressante,Ametista,7.906,8.0,10.0,7.5,5.4,7.2,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.8,10.0,ALFA  (2o e 3o ano),0.0,M,R
+3.0,C,Escola Pública,Veterano,Ágata,6.435,7.1,5.8,7.5,4.7,8.1,Promovido de Fase,Promovido de Fase + Bolsa,Mantido na Fase atual,Não avaliado,Não,7.8,5.0,Nível 4 (9o ano),-1.0,F,R
+3.0,F,Escola Pública,Veterano,Ametista,8.215,9.2,10.0,5.6,7.7,7.9,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Mantido na Fase atual,Não avaliado,Sim,9.6,5.0,Nível 4 (9o ano),-1.0,F,R
+3.0,G,Rede Decisão,Veterano,Ametista,7.751,8.3,7.2,7.5,6.0,8.1,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.6,10.0,Nível 3 (7o e 8o ano),0.0,M,B
+4.0,F,Escola Pública,Veterano,Quartzo,4.788,7.5,1.7,6.9,3.3,6.7,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,3.5,10.0,Nível 4 (9o ano),0.0,M,B
+4.0,L,Escola Pública,Veterano,Ágata,5.636,5.8,5.6,0.0,6.4,8.3,Promovido de Fase,Promovido de Fase,Não avaliado,Promovido de Fase,Não,6.7,5.0,Nível 5 (1o EM),-1.0,M,B
+7.0,A,Escola Pública,Veterano,Quartzo,5.143,8.8,4.2,0.0,2.0,7.7,Mantido na Fase atual,Promovido de Fase + Bolsa,Não avaliado,Mantido na Fase atual,Não,6.3,10.0,Nível 7 (3o EM),0.0,M,B
+3.0,H,Escola Pública,Ingressante,Quartzo,5.504,8.3,3.9,6.9,5.3,7.5,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,4.4,5.0,Nível 4 (9o ano),-1.0,F,B
+2.0,D,Escola Pública,Veterano,Ágata,6.450,7.0,6.3,7.5,4.5,7.5,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,8.0,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+1.0,N,Escola Pública,Veterano,Ametista,7.167,8.5,7.9,7.5,4.2,8.1,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Sim,9.2,5.0,Nível 2 (5o e 6o ano),-1.0,M,R
+0.0,M,Escola Pública,Veterano,Ágata,5.663,9.5,8.3,5.0,4.3,2.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,4.7,5.0,Nível 1 (4o ano),-1.0,M,R
+3.0,C,Escola Pública,Veterano,Topázio,8.761,9.6,9.4,7.5,7.5,8.8,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Não,8.9,10.0,Nível 3 (7o e 8o ano),0.0,F,B
+1.0,G,Escola Pública,Veterano,Ametista,7.765,8.5,8.8,7.5,7.1,8.1,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,8.4,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+0.0,T,Escola Pública,Ingressante,Topázio,8.821,9.5,10.0,7.5,6.9,8.1,Promovido de Fase,Promovido de Fase,Não avaliado,Não avaliado,Sim,9.7,10.0,ALFA  (2o e 3o ano),0.0,M,B
+2.0,K,Escola Pública,Veterano,Quartzo,4.176,0.0,4.2,6.9,1.9,8.1,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,4.8,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+3.0,A,Escola Pública,Ingressante,Quartzo,4.442,9.2,2.8,7.5,1.8,5.8,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,3.9,5.0,Nível 4 (9o ano),-1.0,F,B
+5.0,B,Rede Decisão,Veterano,Ametista,7.138,8.3,6.7,6.9,6.0,7.5,Promovido de Fase,Mantido na Fase atual,Promovido de Fase + Bolsa,Mantido na Fase atual,Não,6.7,10.0,Nível 5 (1o EM),0.0,F,P
+2.0,G,Rede Decisão,Veterano,Quartzo,4.617,0.0,4.2,5.6,4.3,7.1,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.8,5.0,Nível 3 (7o e 8o ano),-1.0,M,R
+0.0,Q,Escola Pública,Ingressante,Quartzo,5.054,8.5,0.0,7.5,4.0,6.9,Não avaliado,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.3,5.0,Nível 2 (5o e 6o ano),-2.0,F,B
+7.0,A,Escola Pública,Veterano,Ametista,7.698,9.2,8.6,6.9,5.4,8.0,Mantido na Fase atual,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Mantido na Fase + Bolsa,Não,7.5,10.0,Nível 7 (3o EM),0.0,F,B
+5.0,B,Escola Pública,Ingressante,Ametista,7.331,8.3,7.2,7.5,6.7,8.3,Promovido de Fase + Bolsa,Mantido na Fase atual,Promovido de Fase + Bolsa,Promovido de Fase,Não,8.2,5.0,Nível 6 (2o EM),-1.0,F,B
+3.0,B,Rede Decisão,Veterano,Ametista,7.544,9.2,6.9,5.6,6.6,7.3,Promovido de Fase + Bolsa,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,8.1,10.0,Nível 3 (7o e 8o ano),0.0,F,B
+2.0,H,Escola Pública,Veterano,Quartzo,3.663,8.5,1.3,4.4,2.1,5.0,Mantido na Fase atual,Não avaliado,Não avaliado,Não avaliado,Não,3.5,5.0,Nível 4 (9o ano),-2.0,M,R
+3.0,D,Escola Pública,Ingressante,Ametista,7.629,8.8,6.1,7.5,6.9,7.3,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.4,10.0,Nível 3 (7o e 8o ano),0.0,M,R
+2.0,I,Escola Pública,Veterano,Quartzo,2.860,7.9,0.4,5.6,0.0,4.1,Alocado em Fase anterior,Mantido na Fase atual,Não avaliado,Não avaliado,Não,2.6,5.0,Nível 3 (7o e 8o ano),-1.0,M,B
+2.0,I,Escola Pública,Veterano,Ágata,5.833,8.5,5.4,7.5,2.9,7.1,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.8,5.0,Nível 3 (7o e 8o ano),-1.0,M,B
+0.0,O,Escola Pública,Ingressante,Ágata,6.354,8.5,5.0,7.5,3.2,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.8,10.0,ALFA  (2o e 3o ano),0.0,F,R
+1.0,R,Escola Pública,Veterano,Ametista,7.013,9.0,8.8,5.6,4.6,8.5,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,7.7,5.0,Nível 2 (5o e 6o ano),-1.0,F,R
+0.0,T,Escola Pública,Ingressante,Ametista,8.013,10.0,8.3,7.5,6.8,8.1,Promovido de Fase,Promovido de Fase,Não avaliado,Não avaliado,Sim,9.7,5.0,Nível 1 (4o ano),-1.0,F,B
+1.0,B,Escola Pública,Ingressante,Ágata,6.025,8.5,7.9,7.5,2.1,7.5,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.8,5.0,Nível 2 (5o e 6o ano),-1.0,M,R
+2.0,N,Escola Pública,Veterano,Ametista,7.976,9.0,6.7,7.5,7.3,8.5,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.4,10.0,Nível 2 (5o e 6o ano),0.0,F,B
+0.0,M,Escola Pública,Ingressante,Ametista,7.473,10.0,10.0,7.5,5.9,7.2,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.6,5.0,Nível 1 (4o ano),-1.0,F,R
+0.0,Q,Escola Pública,Ingressante,Ágata,6.283,7.8,10.0,7.5,5.3,2.5,Alocado em Fase anterior,Mantido na Fase atual,Não avaliado,Não avaliado,Não,4.8,5.0,Nível 1 (4o ano),-1.0,F,R
+0.0,Q,Escola Pública,Ingressante,Ágata,6.750,9.5,6.7,7.5,4.5,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.8,5.0,Nível 1 (4o ano),-1.0,M,B
+4.0,A,Escola Pública,Veterano,Ametista,6.899,9.2,7.8,7.5,5.9,8.4,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não,7.0,2.5,Nível 8 (Universitários),-4.0,M,R
+6.0,C,Rede Decisão,Veterano,Ametista,7.903,9.2,6.9,7.5,7.7,7.8,Mantido na Fase atual,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não,7.7,10.0,Nível 6 (2o EM),0.0,M,R
+6.0,A,Rede Decisão,Veterano,Ametista,7.694,7.9,7.8,7.5,6.5,8.0,Promovido de Fase,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não,7.5,10.0,Nível 6 (2o EM),0.0,F,B
+2.0,B,Escola Pública,Veterano,Ametista,7.892,9.0,8.3,6.3,6.8,7.5,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.0,10.0,Nível 2 (5o e 6o ano),0.0,M,R
+4.0,G,Rede Decisão,Ingressante,Ametista,8.014,9.2,8.9,6.3,8.2,8.3,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não,8.6,5.0,Nível 5 (1o EM),-1.0,M,R
+3.0,J,Escola Pública,Ingressante,Ágata,6.429,9.6,5.0,7.5,4.3,7.7,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,5.5,10.0,Nível 3 (7o e 8o ano),0.0,M,R
+1.0,R,Escola Pública,Veterano,Quartzo,4.125,9.5,2.1,7.5,0.0,6.3,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,4.4,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+5.0,A,Escola Pública,Veterano,Ágata,6.880,7.1,7.8,7.5,6.1,7.7,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não,6.9,5.0,Nível 7 (3o EM),-2.0,F,R
+3.0,M,Escola Pública,Veterano,Ágata,5.815,8.8,5.8,6.3,3.4,6.9,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.4,5.0,Nível 4 (9o ano),-1.0,F,B
+1.0,E,Escola Pública,Veterano,Ametista,8.183,9.5,10.0,7.5,7.8,8.5,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,7.8,5.0,Nível 3 (7o e 8o ano),-2.0,M,R
+5.0,B,Escola Pública,Ingressante,Topázio,8.544,9.2,9.7,7.5,8.8,8.8,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Sim,9.0,5.0,Nível 6 (2o EM),-1.0,M,R
+5.0,A,Escola Pública,Ingressante,Topázio,8.531,8.8,9.4,7.5,8.7,8.8,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Sim,9.5,5.0,Nível 6 (2o EM),-1.0,F,R
+3.0,B,Rede Decisão,Veterano,Ametista,8.088,8.3,7.5,7.5,7.7,7.3,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,8.7,10.0,Nível 3 (7o e 8o ano),0.0,F,B
+5.0,F,Escola Pública,Veterano,Quartzo,3.080,0.0,3.9,0.0,0.0,5.9,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não,3.5,10.0,Nível 5 (1o EM),0.0,F,R
+0.0,K,Escola Pública,Ingressante,Topázio,8.994,9.5,10.0,7.5,7.3,8.4,Mantido na Fase + Bolsa,Mantido na Fase + Bolsa,Não avaliado,Não avaliado,Sim,10.0,10.0,ALFA  (2o e 3o ano),0.0,F,R
+1.0,A,Escola Pública,Veterano,Ágata,6.771,9.0,7.1,7.5,6.9,7.5,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.3,5.0,Nível 2 (5o e 6o ano),-1.0,M,B
+2.0,B,Escola Pública,Veterano,Ametista,7.221,9.5,7.9,7.5,3.6,7.3,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.4,10.0,Nível 2 (5o e 6o ano),0.0,F,R
+3.0,J,Escola Pública,Veterano,Quartzo,4.894,8.8,3.3,5.6,2.8,7.7,Mantido na Fase atual,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Não,6.1,2.5,Nível 6 (2o EM),-3.0,M,B
+2.0,J,Escola Pública,Veterano,Topázio,8.289,9.0,9.2,7.5,6.3,8.5,Mantido na Fase + Bolsa,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.4,10.0,Nível 2 (5o e 6o ano),0.0,M,B
+0.0,M,Escola Pública,Ingressante,Ametista,7.767,8.5,8.3,7.5,6.8,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.0,10.0,ALFA  (2o e 3o ano),0.0,M,R
+3.0,J,Rede Decisão,Veterano,Ametista,7.315,7.9,7.8,5.6,7.5,7.5,Promovido de Fase + Bolsa,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.3,5.0,Nível 4 (9o ano),-1.0,F,R
+0.0,L,Escola Pública,Ingressante,Ametista,7.165,9.0,8.3,7.5,4.6,6.6,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.3,10.0,ALFA  (2o e 3o ano),0.0,F,R
+2.0,J,Rede Decisão,Veterano,Ametista,7.946,9.0,9.6,4.4,7.8,8.8,Mantido na Fase atual,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.8,5.0,Nível 3 (7o e 8o ano),-1.0,M,N
+0.0,P,Escola Pública,Veterano,Ametista,7.375,9.5,8.3,5.0,6.3,8.1,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.4,5.0,Nível 2 (5o e 6o ano),-2.0,F,B
+5.0,A,Rede Decisão,Veterano,Topázio,8.909,8.8,9.2,7.5,8.2,8.6,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Sim,9.8,10.0,Nível 4 (9o ano),1.0,F,R
+2.0,B,Escola Pública,Veterano,Ametista,7.821,7.5,9.6,6.9,8.2,7.3,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.0,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+7.0,A,Rede Decisão,Veterano,Ametista,7.891,8.3,7.5,5.6,7.6,8.3,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Não,8.3,10.0,Nível 7 (3o EM),0.0,M,B
+1.0,B,Rede Decisão,Veterano,Quartzo,4.976,7.4,7.1,4.4,3.3,3.8,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,4.3,5.0,Nível 3 (7o e 8o ano),-2.0,M,B
+7.0,A,Rede Decisão,Veterano,Topázio,8.252,8.3,8.1,6.9,7.9,8.3,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Não,8.6,10.0,Nível 7 (3o EM),0.0,M,R
+0.0,R,Escola Pública,Ingressante,Topázio,8.923,9.0,10.0,7.5,7.3,8.4,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Não avaliado,Não avaliado,Sim,9.8,10.0,ALFA  (2o e 3o ano),0.0,M,R
+1.0,G,Escola Pública,Veterano,Topázio,8.342,9.0,9.6,7.5,7.4,8.3,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Sim,9.8,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+0.0,I,Escola Pública,Veterano,Ametista,7.533,9.0,10.0,6.3,6.9,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.9,5.0,Nível 1 (4o ano),-1.0,F,B
+5.0,B,Rede Decisão,Veterano,Ametista,7.661,7.5,8.1,7.5,7.3,8.8,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não,8.5,5.0,Nível 6 (2o EM),-1.0,F,A
+3.0,C,Escola Pública,Veterano,Ametista,7.676,8.8,8.1,7.5,6.2,8.5,Promovido de Fase,Promovido de Fase + Bolsa,Mantido na Fase atual,Não avaliado,Sim,9.2,5.0,Nível 5 (1o EM),-2.0,F,P
+3.0,C,Escola Pública,Veterano,Ametista,7.800,8.8,8.1,7.5,7.0,8.3,Promovido de Fase,Promovido de Fase + Bolsa,Mantido na Fase atual,Não avaliado,Sim,9.1,5.0,Nível 5 (1o EM),-2.0,M,B
+2.0,B,Rede Decisão,Veterano,Ametista,7.392,8.5,6.7,7.5,7.6,7.5,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.4,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+5.0,L,Escola Pública,Veterano,Ametista,7.070,8.3,8.1,6.9,6.0,8.0,Promovido de Fase + Bolsa,Mantido na Fase atual,Promovido de Fase + Bolsa,Mantido na Fase atual,Não,7.2,5.0,Nível 7 (3o EM),-2.0,F,P
+1.0,F,Escola Pública,Veterano,Ágata,6.764,9.5,5.0,7.5,4.2,7.7,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.3,10.0,Nível 1 (4o ano),0.0,F,R
+1.0,A,Escola Pública,Veterano,Quartzo,4.925,7.9,3.8,7.5,0.0,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,4.4,10.0,Nível 1 (4o ano),0.0,F,B
+1.0,F,Escola Pública,Veterano,Ametista,7.558,10.0,8.8,7.5,6.4,7.7,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.5,5.0,Nível 2 (5o e 6o ano),-1.0,M,R
+1.0,C,Escola Pública,Veterano,Quartzo,4.414,8.0,3.3,7.5,0.4,6.9,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,4.6,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+4.0,F,Escola Pública,Ingressante,Ágata,5.783,7.5,3.6,7.5,3.5,7.2,Promovido de Fase,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não,5.7,10.0,Nível 4 (9o ano),0.0,F,B
+3.0,M,Escola Pública,Ingressante,Ágata,6.854,8.3,5.3,7.5,5.9,7.3,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.6,10.0,Nível 3 (7o e 8o ano),0.0,F,R
+2.0,E,Escola Pública,Veterano,Ametista,7.326,8.0,5.0,7.5,8.0,8.5,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Sim,9.1,5.0,Nível 3 (7o e 8o ano),-1.0,M,B
+0.0,O,Escola Pública,Ingressante,Ametista,8.231,10.0,8.3,7.5,6.5,7.8,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.7,10.0,ALFA  (2o e 3o ano),0.0,F,R
+2.0,A,Escola Pública,Veterano,Ágata,6.306,0.0,7.5,4.4,4.7,7.1,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.6,10.0,Nível 2 (5o e 6o ano),0.0,M,R
+6.0,C,Rede Decisão,Veterano,Ametista,7.376,9.2,6.9,5.0,6.5,6.9,Mantido na Fase atual,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não,7.9,10.0,Nível 6 (2o EM),0.0,F,B
+4.0,F,Escola Pública,Veterano,Ágata,6.392,7.9,4.4,7.5,4.8,7.0,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não,6.5,10.0,Nível 4 (9o ano),0.0,M,B
+3.0,G,Escola Pública,Veterano,Ametista,8.196,7.9,8.9,6.3,9.1,9.0,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Não,8.9,5.0,Nível 4 (9o ano),-1.0,M,R
+2.0,E,Escola Pública,Veterano,Ágata,6.360,8.0,5.4,7.5,4.9,7.5,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,7.4,5.0,Nível 3 (7o e 8o ano),-1.0,F,P
+4.0,L,Escola Pública,Veterano,Quartzo,4.712,9.2,4.4,5.6,1.5,7.2,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não,4.2,5.0,Nível 5 (1o EM),-1.0,F,R
+7.0,A,Escola Pública,Ingressante,Topázio,8.276,9.6,9.4,7.5,6.4,8.1,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Não,7.9,10.0,ERRO,0.0,F,R
+2.0,B,Rede Decisão,Veterano,Topázio,8.858,9.5,10.0,7.5,8.1,7.5,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.9,10.0,Nível 2 (5o e 6o ano),0.0,F,R
+4.0,A,Escola Pública,Ingressante,Quartzo,5.216,8.8,5.8,0.0,3.9,7.7,Promovido de Fase + Bolsa,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não,5.7,5.0,Nível 6 (2o EM),-2.0,F,A
+3.0,G,Rede Decisão,Veterano,Ametista,7.110,8.8,7.5,5.6,4.2,7.5,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.9,10.0,Nível 3 (7o e 8o ano),0.0,M,R
+6.0,C,Rede Decisão,Veterano,Ametista,7.441,6.7,7.8,4.4,7.7,7.8,Promovido de Fase,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não,7.3,10.0,Nível 6 (2o EM),0.0,M,R
+4.0,E,Escola Pública,Veterano,Quartzo,4.151,10.0,2.8,5.0,1.7,5.6,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Alocado em Fase anterior,Não,3.5,5.0,Nível 5 (1o EM),-1.0,M,R
+0.0,I,Escola Pública,Veterano,Ametista,7.052,9.5,8.3,6.3,6.1,7.8,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.6,5.0,Nível 2 (5o e 6o ano),-2.0,M,B
+0.0,R,Escola Pública,Ingressante,Ametista,6.915,9.5,5.8,7.5,6.3,7.2,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.8,5.0,Nível 2 (5o e 6o ano),-2.0,F,R
+1.0,C,Escola Pública,Ingressante,Ametista,7.418,8.5,9.2,8.8,3.6,8.1,Promovido de Fase,Promovido de Fase,Mantido na Fase + Bolsa,Não avaliado,Sim,9.1,5.0,Nível 2 (5o e 6o ano),-1.0,M,A
+3.0,M,Escola Pública,Veterano,Quartzo,5.435,8.8,3.9,7.5,2.6,7.3,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.4,5.0,Nível 5 (1o EM),-2.0,F,R
+3.0,R,Escola Pública,Veterano,Ágata,6.190,7.9,5.8,5.0,6.6,7.3,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,5.9,5.0,Nível 4 (9o ano),-1.0,M,B
+2.0,C,Escola Pública,Veterano,Ágata,6.007,9.5,3.8,7.5,3.8,7.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.7,5.0,Nível 3 (7o e 8o ano),-1.0,F,R
+6.0,A,Rede Decisão,Veterano,Ametista,8.201,8.3,8.6,6.3,9.0,9.4,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não,8.9,5.0,Nível 7 (3o EM),-1.0,M,R
+2.0,F,Escola Pública,Veterano,Ametista,7.260,9.0,6.7,7.5,7.4,8.1,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.4,5.0,Nível 3 (7o e 8o ano),-1.0,M,B
+4.0,F,Rede Decisão,Veterano,Ágata,6.053,7.1,5.3,6.9,5.2,7.2,Promovido de Fase,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não,6.7,5.0,Nível 6 (2o EM),-2.0,F,B
+5.0,A,Escola Pública,Veterano,Ametista,7.593,7.9,8.1,7.5,7.2,7.7,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Mantido na Fase atual,Não,8.7,5.0,Nível 6 (2o EM),-1.0,M,R
+3.0,B,Rede Decisão,Veterano,Quartzo,4.257,6.7,2.8,3.1,2.5,4.6,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,3.8,10.0,Nível 3 (7o e 8o ano),0.0,F,R
+1.0,C,Escola Pública,Veterano,Quartzo,3.729,0.0,3.3,5.6,1.2,7.3,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.2,5.0,Nível 2 (5o e 6o ano),-1.0,F,R
+3.0,D,Escola Pública,Ingressante,Ametista,7.878,9.2,7.2,7.5,6.4,7.9,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.5,10.0,Nível 3 (7o e 8o ano),0.0,M,R
+4.0,G,Rede Decisão,Veterano,Topázio,8.499,8.8,9.2,7.5,7.4,8.9,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não,8.3,10.0,Nível 4 (9o ano),0.0,F,R
+0.0,S,Escola Pública,Ingressante,Ametista,7.767,8.5,8.3,7.5,6.0,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.8,10.0,ALFA  (2o e 3o ano),0.0,F,A
+1.0,A,Escola Pública,Veterano,Ágata,6.868,9.0,8.3,6.9,6.4,7.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.4,5.0,Nível 2 (5o e 6o ano),-1.0,M,R
+4.0,G,Rede Decisão,Veterano,Topázio,8.475,8.3,8.9,7.5,6.6,9.2,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Sim,9.4,10.0,Nível 4 (9o ano),0.0,F,B
+1.0,C,Escola Pública,Veterano,Topázio,8.699,9.0,9.2,8.8,7.2,8.8,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.9,10.0,Nível 1 (4o ano),0.0,M,R
+2.0,H,Escola Pública,Veterano,Ametista,7.349,9.0,8.8,4.4,6.9,7.3,Mantido na Fase atual,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.2,5.0,Nível 4 (9o ano),-2.0,F,B
+4.0,F,Escola Pública,Veterano,Ágata,6.624,9.2,5.8,7.5,5.8,7.7,Promovido de Fase,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não,6.9,5.0,Nível 6 (2o EM),-2.0,M,R
+0.0,Q,Escola Pública,Ingressante,Ametista,7.965,9.0,10.0,7.5,7.2,8.4,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.7,5.0,Nível 2 (5o e 6o ano),-2.0,F,P
+5.0,F,Escola Pública,Ingressante,Quartzo,3.146,0.0,1.7,5.0,1.5,6.9,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,4.2,5.0,Nível 7 (3o EM),-2.0,M,B
+2.0,I,Escola Pública,Veterano,Ágata,5.990,9.0,5.0,7.5,4.5,7.3,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,6.1,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+3.0,F,Escola Pública,Veterano,Ágata,6.642,9.2,6.4,7.5,5.5,7.1,Promovido de Fase + Bolsa,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,6.9,5.0,Nível 4 (9o ano),-1.0,F,R
+0.0,I,Escola Pública,Veterano,Quartzo,4.946,9.0,6.7,5.0,2.6,2.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,4.8,5.0,Nível 2 (5o e 6o ano),-2.0,F,B
+5.0,B,Escola Pública,Veterano,Quartzo,4.169,6.7,4.7,0.0,3.0,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Promovido de Fase,Não,3.5,5.0,Nível 7 (3o EM),-2.0,F,B
+2.0,J,Escola Pública,Ingressante,Ametista,7.743,9.5,8.8,7.5,6.3,8.5,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.4,5.0,Nível 3 (7o e 8o ano),-1.0,F,R
+2.0,P,Escola Pública,Veterano,Ágata,6.482,8.5,5.0,7.5,4.0,7.7,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.6,10.0,Nível 2 (5o e 6o ano),0.0,F,B
+5.0,B,Escola Pública,Ingressante,Ágata,5.756,9.2,5.3,7.5,2.8,7.5,Promovido de Fase,Mantido na Fase atual,Promovido de Fase + Bolsa,Mantido na Fase atual,Não,6.1,5.0,Nível 7 (3o EM),-2.0,M,B
+5.0,B,Escola Pública,Ingressante,Ametista,7.382,8.3,8.1,7.5,6.7,8.1,Promovido de Fase,Mantido na Fase atual,Promovido de Fase + Bolsa,Promovido de Fase,Não,7.7,5.0,Nível 6 (2o EM),-1.0,F,B
+2.0,R,Escola Pública,Veterano,Ametista,7.571,9.0,7.9,6.3,7.8,8.1,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.0,5.0,Nível 3 (7o e 8o ano),-1.0,M,R
+1.0,F,Escola Pública,Veterano,Quartzo,5.188,8.5,4.2,7.5,0.7,7.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.8,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+1.0,J,Escola Pública,Ingressante,Ágata,6.469,9.5,4.2,7.5,5.1,8.1,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.1,5.0,Nível 2 (5o e 6o ano),-1.0,F,A
+1.0,J,Escola Pública,Veterano,Ametista,7.690,9.5,9.6,5.0,6.4,7.9,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,8.7,5.0,Nível 2 (5o e 6o ano),-1.0,M,R
+3.0,R,Escola Pública,Veterano,Ametista,7.850,9.2,7.8,7.5,6.3,7.5,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.1,10.0,Nível 3 (7o e 8o ano),0.0,F,B
+2.0,N,Escola Pública,Veterano,Ametista,7.653,8.5,7.5,7.5,4.9,8.5,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.6,10.0,Nível 2 (5o e 6o ano),0.0,F,B
+5.0,A,Escola Pública,Ingressante,Ametista,7.196,7.1,7.5,7.5,6.3,8.1,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não,8.3,5.0,Nível 6 (2o EM),-1.0,M,R
+1.0,E,Escola Pública,Veterano,Ágata,5.667,8.5,5.0,7.5,1.0,8.3,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.7,5.0,Nível 2 (5o e 6o ano),-1.0,F,R
+1.0,G,Escola Pública,Ingressante,Ametista,7.118,7.0,8.8,7.5,4.8,8.1,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.3,5.0,Nível 2 (5o e 6o ano),-1.0,M,R
+2.0,F,Escola Pública,Veterano,Ametista,7.154,8.5,7.1,7.5,4.9,7.3,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.2,10.0,Nível 2 (5o e 6o ano),0.0,F,R
+4.0,G,Rede Decisão,Veterano,Topázio,8.292,9.6,8.3,7.5,7.0,8.8,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não,8.2,10.0,Nível 3 (7o e 8o ano),1.0,M,B
+0.0,S,Escola Pública,Ingressante,Ametista,8.123,8.5,10.0,7.5,7.6,7.8,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.6,5.0,Nível 2 (5o e 6o ano),-2.0,M,B
+2.0,N,Escola Pública,Ingressante,Ágata,6.583,7.0,6.3,7.5,3.6,7.7,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.0,10.0,Nível 2 (5o e 6o ano),0.0,F,P
+4.0,A,Rede Decisão,Veterano,Ágata,6.759,6.3,6.7,7.5,6.4,7.3,Promovido de Fase,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não,5.2,10.0,Nível 3 (7o e 8o ano),1.0,M,A
+2.0,H,Escola Pública,Veterano,Ametista,7.215,9.0,7.5,7.5,4.6,7.1,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.2,10.0,Nível 2 (5o e 6o ano),0.0,M,R
+2.0,L,Escola Pública,Veterano,Quartzo,5.185,0.0,5.8,7.5,4.3,7.3,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.9,5.0,Nível 3 (7o e 8o ano),-1.0,F,P
+2.0,F,Rede Decisão,Veterano,Topázio,9.021,10.0,10.0,7.5,9.1,9.8,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Não avaliado,Sim,9.8,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+2.0,G,Rede Decisão,Veterano,Ametista,7.644,9.5,8.3,5.0,8.1,7.9,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.1,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+3.0,D,Escola Pública,Ingressante,Ágata,6.387,7.1,6.1,7.5,5.0,7.3,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.4,5.0,Nível 4 (9o ano),-1.0,M,P
+2.0,C,Escola Pública,Ingressante,Quartzo,5.511,0.0,6.3,7.5,6.0,6.7,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.7,5.0,Nível 3 (7o e 8o ano),-1.0,M,B
+0.0,S,Escola Pública,Veterano,Ametista,7.440,10.0,6.7,7.5,7.1,7.8,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.3,5.0,Nível 1 (4o ano),-1.0,M,R
+3.0,R,Escola Pública,Veterano,Ágata,5.539,8.3,5.3,7.5,3.0,7.1,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,5.5,5.0,Nível 4 (9o ano),-1.0,F,R
+4.0,A,Rede Decisão,Ingressante,Ametista,7.044,8.8,7.8,6.9,6.5,7.3,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Mantido na Fase atual,Não,7.0,5.0,Nível 6 (2o EM),-2.0,M,R
+1.0,C,Escola Pública,Ingressante,Topázio,8.268,9.5,9.2,7.5,7.2,8.8,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Sim,9.6,5.0,Nível 2 (5o e 6o ano),-1.0,F,R
+4.0,A,Rede Decisão,Ingressante,Ametista,7.895,9.6,6.7,7.5,7.5,8.3,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Mantido na Fase atual,Não,7.7,10.0,Nível 3 (7o e 8o ano),1.0,F,B
+2.0,K,Escola Pública,Ingressante,Ametista,7.599,9.0,8.3,7.5,6.6,8.1,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.2,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+3.0,H,Escola Pública,Ingressante,Ágata,5.735,9.6,3.9,5.0,3.8,7.3,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.1,10.0,Nível 3 (7o e 8o ano),0.0,M,B
+2.0,A,Rede Decisão,Veterano,Ametista,7.497,9.0,7.1,7.5,7.1,7.5,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.8,5.0,Nível 3 (7o e 8o ano),-1.0,F,R
+7.0,A,Rede Decisão,Veterano,Ametista,7.878,9.2,8.9,5.6,6.4,8.1,Promovido de Fase + Bolsa,Mantido na Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Não,7.6,10.0,Nível 7 (3o EM),0.0,M,R
+4.0,G,Escola Pública,Veterano,Ágata,6.853,10.0,4.7,7.5,3.9,8.8,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não,7.5,10.0,Nível 4 (9o ano),0.0,M,B
+0.0,J,Escola Pública,Ingressante,Ametista,8.008,9.5,10.0,7.5,6.9,7.5,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.4,5.0,Nível 1 (4o ano),-1.0,M,R
+0.0,J,Escola Pública,Veterano,#NULO!,#NULO!,7.4,0.0,5.0,4.1,0.0,Não avaliado,Não avaliado,Não avaliado,Não avaliado,#NULO!,0.0,10.0,ALFA  (2o e 3o ano),0.0,M,B
+4.0,E,Escola Pública,Veterano,Ágata,5.580,9.6,3.9,5.0,2.8,7.2,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não,5.3,10.0,Nível 4 (9o ano),0.0,F,B
+0.0,S,Escola Pública,Ingressante,Ametista,7.296,7.5,8.3,7.5,6.6,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.8,5.0,Nível 1 (4o ano),-1.0,M,B
+4.0,A,Rede Decisão,Veterano,Ametista,7.972,8.3,8.6,7.5,7.0,8.8,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Sim,9.5,5.0,Nível 5 (1o EM),-1.0,M,R
+1.0,F,Escola Pública,Veterano,Ametista,7.285,8.5,7.5,7.5,6.1,7.7,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.4,5.0,Nível 2 (5o e 6o ano),-1.0,F,R
+7.0,A,Rede Decisão,Veterano,Ametista,7.971,9.6,6.7,7.5,7.9,8.1,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não,7.7,10.0,Nível 7 (3o EM),0.0,F,B
+3.0,L,Rede Decisão,Veterano,Topázio,8.414,7.9,9.7,5.6,7.2,9.0,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Não,8.9,10.0,Nível 2 (5o e 6o ano),1.0,M,A
+2.0,E,Escola Pública,Veterano,Ametista,7.254,9.5,4.6,7.5,5.3,8.5,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.7,10.0,Nível 2 (5o e 6o ano),0.0,F,R
+2.0,P,Escola Pública,Veterano,Ágata,5.868,8.5,4.2,7.5,3.8,7.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.1,5.0,Nível 3 (7o e 8o ano),-1.0,M,B
+3.0,D,Escola Pública,Ingressante,Ametista,7.082,7.9,5.6,7.5,6.4,6.9,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.3,10.0,Nível 3 (7o e 8o ano),0.0,M,R
+1.0,E,Escola Pública,Veterano,Topázio,8.494,9.5,9.2,7.5,8.4,8.8,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Não avaliado,Sim,9.6,5.0,Nível 2 (5o e 6o ano),-1.0,M,R
+1.0,F,Escola Pública,Ingressante,Ametista,7.626,8.5,8.8,7.5,7.8,7.7,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.3,5.0,Nível 2 (5o e 6o ano),-1.0,F,R
+6.0,C,Rede Decisão,Veterano,Ametista,7.620,9.2,7.2,7.5,7.1,8.6,Promovido de Fase + Bolsa,Mantido na Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não,8.7,5.0,Nível 7 (3o EM),-1.0,F,P
+1.0,N,Escola Pública,Ingressante,Ametista,8.090,8.0,9.6,7.5,8.0,8.1,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,8.6,5.0,Nível 2 (5o e 6o ano),-1.0,M,P
+5.0,A,Escola Pública,Veterano,Ametista,7.223,8.8,8.3,7.5,5.7,7.8,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Mantido na Fase atual,Não,7.5,5.0,Nível 7 (3o EM),-2.0,F,R
+3.0,B,Escola Pública,Veterano,Ágata,5.956,9.2,5.3,7.5,4.9,7.8,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,4.9,5.0,Nível 4 (9o ano),-1.0,F,R
+1.0,R,Escola Pública,Ingressante,Quartzo,4.586,8.0,1.7,7.5,3.1,6.7,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,4.6,5.0,Nível 2 (5o e 6o ano),-1.0,M,R
+0.0,M,Escola Pública,Ingressante,Quartzo,4.808,6.3,4.2,7.5,3.4,5.0,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,4.6,5.0,Nível 1 (4o ano),-1.0,M,B
+2.0,J,Escola Pública,Ingressante,Quartzo,4.824,9.0,5.0,5.0,1.1,5.2,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.9,5.0,Nível 3 (7o e 8o ano),-1.0,M,R
+2.0,I,Escola Pública,Veterano,Ágata,6.078,8.5,5.4,7.5,4.5,7.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.2,5.0,Nível 3 (7o e 8o ano),-1.0,M,B
+4.0,L,Rede Decisão,Veterano,Ametista,7.835,9.2,6.9,7.5,6.8,8.1,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não,8.0,10.0,Nível 4 (9o ano),0.0,F,B
+0.0,R,Escola Pública,Ingressante,Ametista,7.565,8.0,8.3,7.5,7.0,7.8,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.3,5.0,Nível 2 (5o e 6o ano),-2.0,F,R
+2.0,R,Escola Pública,Veterano,Ametista,7.292,9.0,7.9,6.3,6.7,8.1,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,7.7,5.0,Nível 3 (7o e 8o ano),-1.0,M,R
+6.0,A,Escola Pública,Veterano,Ágata,5.728,10.0,7.2,2.5,4.0,4.6,Não avaliado,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não,6.3,5.0,Nível 8 (Universitários),-2.0,M,R
+4.0,G,Escola Pública,Veterano,Ágata,6.800,7.5,6.4,6.3,7.1,8.0,Promovido de Fase + Bolsa,Mantido na Fase atual,Promovido de Fase,Promovido de Fase,Não,7.1,5.0,Nível 5 (1o EM),-1.0,F,R
+0.0,S,Escola Pública,Ingressante,Topázio,8.431,9.5,10.0,7.5,5.3,7.8,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Sim,9.5,10.0,ALFA  (2o e 3o ano),0.0,F,R
+0.0,S,Escola Pública,Ingressante,Ametista,7.873,10.0,8.3,7.5,6.9,7.2,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Sim,9.3,5.0,Nível 1 (4o ano),-1.0,M,R
+2.0,J,Escola Pública,Veterano,Topázio,8.489,7.4,10.0,8.1,6.6,8.5,Mantido na Fase + Bolsa,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.8,10.0,Nível 2 (5o e 6o ano),0.0,F,B
+2.0,M,Escola Pública,Veterano,Ametista,7.543,9.0,8.3,6.9,5.9,8.1,Mantido na Fase atual,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.9,5.0,Nível 3 (7o e 8o ano),-1.0,M,P
+2.0,N,Escola Pública,Veterano,Ágata,6.489,9.5,4.6,7.5,3.2,8.1,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.1,10.0,Nível 2 (5o e 6o ano),0.0,M,R
+3.0,G,Escola Pública,Veterano,Quartzo,4.740,7.9,1.1,7.5,4.0,6.9,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,4.9,5.0,Nível 5 (1o EM),-2.0,F,B
+2.0,L,Rede Decisão,Veterano,Topázio,8.418,7.5,7.9,7.5,9.2,8.8,Promovido de Fase + Bolsa,Mantido na Fase + Bolsa,Mantido na Fase atual,Não avaliado,Não,8.1,10.0,Nível 2 (5o e 6o ano),0.0,M,B
+0.0,T,Escola Pública,Ingressante,Topázio,8.371,9.5,10.0,7.5,7.1,8.1,Promovido de Fase,Promovido de Fase,Não avaliado,Não avaliado,Sim,9.7,5.0,Nível 1 (4o ano),-1.0,F,R
+4.0,E,Escola Pública,Ingressante,Ágata,5.755,10.0,3.9,7.5,2.8,7.2,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não,4.8,10.0,Nível 4 (9o ano),0.0,M,R
+1.0,N,Escola Pública,Ingressante,Topázio,8.385,10.0,8.8,7.5,5.8,8.1,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Sim,9.6,10.0,Nível 1 (4o ano),0.0,F,B
+5.0,B,Escola Pública,Ingressante,Ametista,8.133,8.8,7.8,7.5,7.9,8.4,Promovido de Fase,Mantido na Fase atual,Promovido de Fase + Bolsa,Promovido de Fase,Não,7.6,10.0,Nível 5 (1o EM),0.0,M,R
+0.0,Q,Escola Pública,Ingressante,Ágata,6.885,8.0,5.8,7.5,5.0,7.2,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.3,10.0,ALFA  (2o e 3o ano),0.0,M,B
+1.0,B,Escola Pública,Ingressante,Topázio,8.644,10.0,10.0,7.5,7.0,7.5,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.7,10.0,Nível 1 (4o ano),0.0,M,B
+1.0,R,Escola Pública,Veterano,Quartzo,5.049,9.5,3.3,7.5,2.0,7.7,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.1,5.0,Nível 3 (7o e 8o ano),-2.0,M,R
+3.0,D,Escola Pública,Ingressante,Ametista,7.246,6.7,7.2,7.5,7.6,7.7,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.9,5.0,Nível 4 (9o ano),-1.0,F,R
+0.0,Q,Escola Pública,Ingressante,Topázio,8.681,7.5,10.0,7.5,6.7,8.4,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Sim,10.0,10.0,ALFA  (2o e 3o ano),0.0,M,R
+6.0,C,Escola Pública,Veterano,Ametista,7.336,8.8,8.6,7.5,5.7,8.0,Mantido na Fase atual,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não,7.8,5.0,Nível 7 (3o EM),-1.0,M,R
+0.0,Q,Escola Pública,Ingressante,Ametista,7.490,8.5,6.7,7.5,5.2,7.2,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Sim,9.0,10.0,ALFA  (2o e 3o ano),0.0,F,B
+2.0,H,Escola Pública,Veterano,Ametista,7.332,8.5,6.3,7.5,5.4,7.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.2,10.0,Nível 2 (5o e 6o ano),0.0,F,B
+4.0,A,Escola Pública,Veterano,Ágata,6.535,6.7,5.6,7.5,5.8,7.7,Promovido de Fase,Mantido na Fase + Bolsa,Promovido de Fase,Promovido de Fase,Não,7.9,5.0,Nível 5 (1o EM),-1.0,F,R
+1.0,C,Escola Pública,Ingressante,Ametista,7.039,9.0,8.8,7.5,2.7,8.1,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.9,5.0,Nível 2 (5o e 6o ano),-1.0,M,B
+2.0,F,Escola Pública,Veterano,Quartzo,2.735,0.0,1.3,4.4,0.4,6.6,Mantido na Fase atual,Não avaliado,Mantido na Fase atual,Não avaliado,Não,5.3,2.5,Nível 5 (1o EM),-3.0,F,B
+1.0,J,Escola Pública,Veterano,Ametista,8.019,8.5,9.6,7.5,7.1,8.1,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,8.9,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+1.0,E,Escola Pública,Veterano,Topázio,8.881,10.0,9.6,7.5,7.8,8.8,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.9,10.0,Nível 1 (4o ano),0.0,F,B
+1.0,R,Escola Pública,Veterano,Ametista,7.413,7.4,8.3,7.5,6.4,8.1,Mantido na Fase atual,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.3,5.0,Nível 3 (7o e 8o ano),-2.0,M,P
+1.0,C,Escola Pública,Veterano,Ametista,7.476,9.5,9.2,7.5,4.8,7.9,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.4,5.0,Nível 3 (7o e 8o ano),-2.0,M,B
+0.0,S,Escola Pública,Ingressante,Topázio,8.806,9.5,10.0,7.5,6.9,7.8,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Sim,9.8,10.0,ALFA  (2o e 3o ano),0.0,M,R
+1.0,N,Escola Pública,Ingressante,Ágata,6.374,10.0,6.7,7.5,3.0,8.1,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.9,5.0,Nível 2 (5o e 6o ano),-1.0,M,R
+1.0,E,Escola Pública,Ingressante,Quartzo,4.940,0.0,4.6,7.5,2.3,8.4,Mantido na Fase atual,Não avaliado,Mantido na Fase atual,Não avaliado,Não,7.3,5.0,Nível 3 (7o e 8o ano),-2.0,F,B
+1.0,R,Escola Pública,Veterano,Ágata,5.787,0.0,9.2,3.1,3.3,8.1,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.3,5.0,Nível 3 (7o e 8o ano),-2.0,M,B
+4.0,A,Escola Pública,Veterano,Ametista,7.310,7.1,7.2,5.0,8.5,7.7,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Não,8.5,5.0,Nível 5 (1o EM),-1.0,M,B
+5.0,B,Escola Pública,Ingressante,Ametista,6.913,8.8,6.4,7.5,5.8,8.4,Promovido de Fase,Mantido na Fase + Bolsa,Promovido de Fase + Bolsa,Mantido na Fase atual,Não,7.5,5.0,Nível 6 (2o EM),-1.0,M,R
+1.0,R,Escola Pública,Veterano,Ametista,7.196,9.5,9.2,3.1,5.5,8.3,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.3,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+1.0,B,Escola Pública,Veterano,Topázio,8.358,9.0,8.8,7.5,7.4,7.5,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.7,10.0,Nível 1 (4o ano),0.0,F,B
+0.0,T,Escola Pública,Ingressante,Topázio,8.583,9.0,10.0,7.5,5.9,8.1,Promovido de Fase,Promovido de Fase,Não avaliado,Não avaliado,Sim,9.7,10.0,ALFA  (2o e 3o ano),0.0,M,B
+2.0,N,Escola Pública,Veterano,Ágata,6.682,7.9,5.0,7.5,4.6,7.7,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.2,10.0,Nível 2 (5o e 6o ano),0.0,F,P
+1.0,C,Escola Pública,Ingressante,Quartzo,2.942,0.0,1.3,7.5,0.0,6.3,Mantido na Fase atual,Não avaliado,Mantido na Fase atual,Não avaliado,Não,4.1,5.0,Nível 2 (5o e 6o ano),-1.0,M,B
+3.0,F,Escola Pública,Veterano,Quartzo,5.193,10.0,3.6,7.5,0.7,6.9,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,4.5,10.0,Nível 3 (7o e 8o ano),0.0,F,B
+3.0,F,Escola Pública,Veterano,Ágata,5.742,7.1,5.0,7.5,5.1,7.1,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.5,2.5,Nível 6 (2o EM),-3.0,F,B
+0.0,S,Escola Pública,Ingressante,Ametista,7.442,8.0,8.3,7.5,6.9,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.0,5.0,Nível 1 (4o ano),-1.0,M,B
+0.0,O,Escola Pública,Ingressante,Ametista,7.438,9.0,8.3,7.5,5.9,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.4,5.0,Nível 2 (5o e 6o ano),-2.0,M,B
+0.0,S,Escola Pública,Ingressante,Ágata,5.888,9.0,5.0,7.5,3.4,7.5,Mantido na Fase atual,Não avaliado,Não avaliado,Não avaliado,Não,6.5,5.0,Nível 2 (5o e 6o ano),-2.0,M,R
+1.0,A,Escola JP II,Veterano,Quartzo,3.754,6.3,2.1,6.3,2.4,4.4,Não avaliado,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,3.3,5.0,Nível 3 (7o e 8o ano),-2.0,M,B
+5.0,F,Escola Pública,Veterano,Quartzo,4.494,4.6,3.3,5.0,4.8,5.9,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não,4.0,5.0,Nível 6 (2o EM),-1.0,M,B
+2.0,I,Escola Pública,Veterano,Ágata,6.783,8.5,6.3,6.9,6.1,7.5,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.7,5.0,Nível 4 (9o ano),-2.0,F,R
+1.0,C,Escola Pública,Veterano,Ametista,7.082,8.5,7.5,6.3,6.4,6.9,Alocado em Fase anterior,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,8.2,5.0,Nível 2 (5o e 6o ano),-1.0,F,P
+2.0,A,Rede Decisão,Veterano,Topázio,9.163,10.0,10.0,5.0,9.4,8.5,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Sim,9.7,10.0,Nível 2 (5o e 6o ano),0.0,F,B
+0.0,J,Escola Pública,Veterano,Ágata,6.633,10.0,6.7,7.5,5.3,7.5,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.2,5.0,Nível 1 (4o ano),-1.0,F,P
+2.0,D,Escola Pública,Veterano,Ametista,7.396,9.0,7.9,7.5,6.6,7.7,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.8,5.0,Nível 3 (7o e 8o ano),-1.0,F,R
+2.0,R,Escola Pública,Veterano,Quartzo,3.868,9.5,1.7,5.0,0.0,7.3,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,4.3,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+0.0,M,Escola Pública,Ingressante,Ametista,6.942,9.0,5.8,7.5,4.9,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.0,10.0,ALFA  (2o e 3o ano),0.0,F,R
+2.0,P,Escola Pública,Veterano,Ametista,8.046,9.5,6.3,7.5,8.5,9.0,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase + Bolsa,Não avaliado,Sim,10.0,5.0,Nível 3 (7o e 8o ano),-1.0,M,B
+0.0,N,Escola Pública,Ingressante,Ágata,5.615,9.5,4.2,7.5,2.8,7.8,Mantido na Fase atual,Mantido na Fase + Bolsa,Não avaliado,Não avaliado,Não,6.2,5.0,Nível 1 (4o ano),-1.0,M,R
+3.0,B,Escola Pública,Veterano,Quartzo,5.348,8.3,3.6,7.5,1.3,7.8,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,5.1,10.0,Nível 3 (7o e 8o ano),0.0,M,R
+5.0,B,Escola Pública,Ingressante,Quartzo,5.336,8.3,4.7,0.0,5.3,7.9,Promovido de Fase + Bolsa,Mantido na Fase atual,Promovido de Fase + Bolsa,Não avaliado,Não,6.0,5.0,Nível 7 (3o EM),-2.0,F,R
+2.0,D,Escola Pública,Veterano,Quartzo,5.479,7.8,2.9,7.5,3.3,6.7,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.2,10.0,Nível 2 (5o e 6o ano),0.0,M,P
+5.0,A,Rede Decisão,Veterano,Topázio,8.681,10.0,8.6,7.5,9.3,8.8,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Sim,9.9,5.0,Nível 6 (2o EM),-1.0,M,B
+2.0,J,Escola Pública,Veterano,Ágata,6.722,8.0,5.8,7.5,4.5,7.5,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,6.8,10.0,Nível 2 (5o e 6o ano),0.0,F,R
+6.0,A,Rede Decisão,Veterano,Ametista,7.872,7.9,7.5,7.5,7.9,9.2,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Sim,9.2,5.0,Nível 7 (3o EM),-1.0,M,P
+1.0,E,Escola Pública,Veterano,Ametista,7.963,9.0,9.6,6.3,7.4,8.3,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.5,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+1.0,N,Escola Pública,Veterano,Quartzo,5.411,9.5,3.3,7.5,2.3,7.7,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.6,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+5.0,B,Escola Pública,Ingressante,Quartzo,4.600,8.3,2.8,7.5,0.0,7.5,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase + Bolsa,Não avaliado,Não,3.6,10.0,Nível 5 (1o EM),0.0,F,R
+2.0,C,Escola Pública,Veterano,Ágata,6.842,8.5,6.3,6.9,6.6,7.3,Mantido na Fase atual,Promovido de Fase,Promovido de Fase,Não avaliado,Não,7.5,5.0,Nível 4 (9o ano),-2.0,F,B
+1.0,N,Escola Pública,Veterano,Ametista,8.040,8.0,9.6,7.5,7.3,8.1,Mantido na Fase atual,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Sim,9.1,5.0,Nível 2 (5o e 6o ano),-1.0,M,R
+0.0,P,Escola Pública,Veterano,Ágata,6.048,8.5,5.0,6.3,4.7,7.2,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.1,5.0,Nível 1 (4o ano),-1.0,M,B
+0.0,P,Escola Pública,Veterano,Ametista,6.917,9.5,5.8,7.5,6.5,7.5,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.5,5.0,Nível 2 (5o e 6o ano),-2.0,F,R
+3.0,C,Escola Pública,Ingressante,Quartzo,5.101,6.7,5.0,7.5,2.0,7.3,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,5.3,5.0,Nível 5 (1o EM),-2.0,M,B
+7.0,A,Escola Pública,Veterano,Ametista,7.738,8.3,9.7,5.6,8.3,7.8,Mantido na Fase atual,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não,7.3,5.0,Nível 8 (Universitários),-1.0,F,R
+2.0,B,Rede Decisão,Veterano,Ametista,7.908,8.5,9.2,7.5,7.9,7.5,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,8.3,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+0.0,N,Escola Pública,Ingressante,Ágata,6.042,9.0,8.3,0.0,4.9,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.2,5.0,Nível 1 (4o ano),-1.0,F,A
+0.0,P,Escola Pública,Veterano,Ágata,6.675,8.5,5.0,7.5,5.9,7.5,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.3,5.0,Nível 1 (4o ano),-1.0,F,B
+0.0,Q,Escola Pública,Ingressante,Topázio,8.665,9.5,10.0,7.5,7.3,7.8,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.7,10.0,ALFA  (2o e 3o ano),0.0,F,R
+0.0,J,Escola Pública,Veterano,Topázio,8.263,10.0,10.0,7.5,7.1,7.5,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Sim,9.3,5.0,Nível 1 (4o ano),-1.0,F,B
+6.0,A,Escola Pública,Veterano,Ametista,7.294,7.9,8.1,5.6,7.2,8.1,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não,7.9,5.0,Nível 7 (3o EM),-1.0,F,B
+2.0,I,Escola Pública,Veterano,Ágata,6.197,9.5,4.6,7.5,4.9,7.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.8,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+3.0,F,Escola Pública,Veterano,Ametista,7.106,9.2,6.7,7.5,6.3,7.5,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,7.9,5.0,Nível 4 (9o ano),-1.0,M,B
+2.0,I,Escola Pública,Veterano,Ametista,7.213,10.0,6.3,7.5,6.9,7.7,Mantido na Fase atual,Promovido de Fase,Promovido de Fase,Não avaliado,Não,7.8,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+2.0,C,Escola Pública,Veterano,Ágata,6.814,9.5,7.1,7.5,5.4,7.5,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.1,2.5,Nível 5 (1o EM),-3.0,M,B
+1.0,E,Escola Pública,Veterano,Ametista,7.286,9.0,9.2,7.5,5.1,8.3,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.2,5.0,Nível 2 (5o e 6o ano),-1.0,F,R
+1.0,R,Escola Pública,Ingressante,Ametista,7.449,8.5,8.3,7.5,5.8,8.5,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.4,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+2.0,B,Rede Decisão,Veterano,Topázio,8.713,9.5,9.2,7.5,8.3,8.3,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,8.4,10.0,Nível 2 (5o e 6o ano),0.0,M,R
+2.0,R,Escola Pública,Veterano,Quartzo,5.129,0.0,6.3,6.9,2.6,8.1,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.8,5.0,Nível 3 (7o e 8o ano),-1.0,F,R
+2.0,G,Escola Pública,Veterano,Ametista,6.911,8.5,6.3,7.5,4.5,7.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.1,10.0,Nível 2 (5o e 6o ano),0.0,M,B
+3.0,R,Escola Pública,Ingressante,Quartzo,5.494,8.8,4.7,7.5,3.3,7.1,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,5.3,5.0,Nível 4 (9o ano),-1.0,M,B
+2.0,I,Escola Pública,Veterano,Quartzo,5.029,9.5,3.8,5.6,2.5,6.7,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.5,5.0,Nível 3 (7o e 8o ano),-1.0,F,R
+1.0,M,Escola Pública,Ingressante,Topázio,8.271,10.0,10.0,7.5,6.9,8.1,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Sim,9.2,5.0,Nível 2 (5o e 6o ano),-1.0,M,B
+2.0,M,Escola Pública,Veterano,Quartzo,2.767,0.0,0.4,7.5,0.0,7.5,Mantido na Fase atual,Não avaliado,Mantido na Fase atual,Não avaliado,Não,3.4,5.0,Nível 3 (7o e 8o ano),-1.0,M,B
+0.0,M,Escola Pública,Ingressante,Ágata,5.981,8.4,4.2,7.5,3.4,7.2,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,5.7,10.0,ALFA  (2o e 3o ano),0.0,M,B
+4.0,E,Escola Pública,Ingressante,Ágata,5.686,6.7,3.9,7.5,5.8,7.5,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não,5.4,5.0,Nível 5 (1o EM),-1.0,M,R
+5.0,F,Rede Decisão,Ingressante,Ágata,5.690,8.3,4.4,5.0,5.8,7.3,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não,5.3,5.0,Nível 6 (2o EM),-1.0,F,B
+5.0,L,Rede Decisão,Veterano,Ametista,7.765,7.9,6.4,7.5,8.0,8.1,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não,7.7,10.0,Nível 5 (1o EM),0.0,M,R
+3.0,L,Rede Decisão,Veterano,Ametista,6.890,8.8,6.4,6.3,4.4,7.7,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.3,10.0,Nível 3 (7o e 8o ano),0.0,M,B
+0.0,N,Escola Pública,Ingressante,Quartzo,5.113,9.0,5.0,0.0,3.6,2.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.2,10.0,ALFA  (2o e 3o ano),0.0,F,R
+2.0,N,Escola Pública,Veterano,Ametista,7.431,9.0,7.1,7.5,6.9,8.5,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.1,5.0,Nível 3 (7o e 8o ano),-1.0,M,R
+3.0,J,Rede Decisão,Veterano,Ametista,8.042,9.2,7.8,6.3,8.1,7.5,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.9,10.0,Nível 3 (7o e 8o ano),0.0,M,N
+3.0,A,Rede Decisão,Veterano,Ametista,8.085,9.2,8.1,8.8,7.6,8.1,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Sim,9.2,5.0,Nível 4 (9o ano),-1.0,F,B
+0.0,P,Escola Pública,Veterano,Ágata,6.421,9.0,5.8,7.5,4.2,7.5,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.6,5.0,Nível 2 (5o e 6o ano),-2.0,F,P
+5.0,B,Escola Pública,Ingressante,Ametista,7.002,8.8,4.4,7.5,6.2,8.0,Promovido de Fase,Mantido na Fase atual,Promovido de Fase + Bolsa,Mantido na Fase atual,Não,7.3,10.0,Nível 5 (1o EM),0.0,M,R
+3.0,G,Escola Pública,Ingressante,Ametista,7.360,7.5,6.1,7.5,6.8,7.7,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,7.5,10.0,Nível 3 (7o e 8o ano),0.0,F,B
+1.0,J,Escola Pública,Veterano,Ametista,8.061,10.0,8.8,5.0,6.4,7.9,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.7,10.0,Nível 1 (4o ano),0.0,M,P
+2.0,G,Rede Decisão,Veterano,Topázio,9.107,9.0,8.8,8.8,9.3,8.5,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Sim,9.4,10.0,Nível 2 (5o e 6o ano),0.0,F,R
+4.0,E,Escola Pública,Veterano,Topázio,8.675,8.8,8.9,7.5,7.4,9.2,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase + Bolsa,Sim,9.3,10.0,Nível 4 (9o ano),0.0,M,P
+0.0,Q,Escola Pública,Ingressante,Ametista,7.985,10.0,10.0,7.5,6.4,7.8,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.3,5.0,Nível 2 (5o e 6o ano),-2.0,F,B
+4.0,G,Escola Pública,Veterano,Ágata,6.508,6.3,5.0,7.5,7.6,7.5,Promovido de Fase,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não,6.8,5.0,Nível 5 (1o EM),-1.0,F,R
+4.0,E,Escola Pública,Veterano,Quartzo,4.785,8.3,2.5,7.5,0.8,7.2,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não,4.1,10.0,Nível 3 (7o e 8o ano),1.0,M,R
+4.0,G,Rede Decisão,Veterano,Ágata,6.872,7.1,4.7,6.9,6.8,7.8,Promovido de Fase,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não,7.0,10.0,Nível 4 (9o ano),0.0,F,R
+3.0,A,Escola Pública,Veterano,Quartzo,5.421,7.9,5.3,7.5,2.9,7.3,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,5.1,5.0,Nível 4 (9o ano),-1.0,F,B
+2.0,K,Escola Pública,Veterano,Ametista,6.983,8.5,5.4,7.5,6.5,8.3,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.3,5.0,Nível 3 (7o e 8o ano),-1.0,M,B
+0.0,P,Escola Pública,Veterano,Ametista,7.360,8.0,5.8,7.5,6.8,7.8,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.5,10.0,ALFA  (2o e 3o ano),0.0,M,B
+1.0,F,Escola Pública,Ingressante,Ágata,6.546,7.5,7.1,7.5,3.2,7.9,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.5,5.0,Nível 2 (5o e 6o ano),-1.0,M,R
+5.0,A,Escola Pública,Ingressante,Ametista,7.440,9.2,7.5,7.5,6.5,7.8,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Mantido na Fase atual,Não,8.4,5.0,Nível 6 (2o EM),-1.0,M,R
+3.0,G,Rede Decisão,Veterano,Ametista,8.065,8.3,9.2,6.3,8.4,8.1,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Não,8.9,5.0,Nível 5 (1o EM),-2.0,M,P
+3.0,B,Escola Pública,Ingressante,Topázio,8.401,9.6,7.2,7.5,8.5,7.7,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Não,8.9,10.0,Nível 3 (7o e 8o ano),0.0,F,B
+2.0,F,Rede Decisão,Veterano,Topázio,8.921,9.5,10.0,7.5,8.9,9.8,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Não avaliado,Sim,9.8,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+2.0,A,Escola Pública,Ingressante,Topázio,9.211,9.5,10.0,7.5,8.9,8.1,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Sim,9.6,10.0,Nível 2 (5o e 6o ano),0.0,F,B
+3.0,R,Escola Pública,Veterano,Quartzo,5.424,7.9,4.2,7.5,3.9,6.9,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,5.4,5.0,Nível 5 (1o EM),-2.0,M,P
+2.0,D,Escola Pública,Veterano,Quartzo,5.500,8.0,3.8,7.5,4.3,7.5,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,6.8,2.5,Nível 5 (1o EM),-3.0,M,R
+3.0,M,Escola Pública,Veterano,Quartzo,5.450,8.8,3.1,7.5,3.3,6.7,Mantido na Fase atual,Alocado em Fase anterior,Mantido na Fase atual,Não avaliado,Não,4.4,10.0,Nível 3 (7o e 8o ano),0.0,F,R
+2.0,K,Escola Pública,Veterano,Ágata,6.118,7.5,4.6,7.5,3.6,8.3,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.3,5.0,Nível 3 (7o e 8o ano),-1.0,F,R
+2.0,G,Rede Decisão,Ingressante,Topázio,8.533,9.5,9.2,8.8,7.9,8.5,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Sim,9.7,5.0,Nível 3 (7o e 8o ano),-1.0,M,R
+5.0,F,Escola Pública,Veterano,Quartzo,5.341,7.1,6.1,5.0,3.3,7.2,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não,5.1,5.0,Nível 7 (3o EM),-2.0,F,R
+4.0,A,Rede Decisão,Veterano,Topázio,8.650,10.0,8.3,7.5,7.5,8.8,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Sim,9.3,10.0,Nível 4 (9o ano),0.0,M,B
+2.0,I,Escola Pública,Veterano,Quartzo,5.531,6.3,5.8,5.0,4.1,7.5,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,5.8,5.0,Nível 3 (7o e 8o ano),-1.0,M,R
+1.0,E,Escola Pública,Veterano,Ágata,6.506,8.0,7.9,7.5,3.9,7.3,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,6.8,5.0,Nível 2 (5o e 6o ano),-1.0,M,B
+3.0,L,Rede Decisão,Veterano,Ametista,7.211,7.9,7.5,6.3,8.2,7.9,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Não,8.1,2.5,Nível 6 (2o EM),-3.0,,
+4.0,E,Escola Pública,Veterano,Ágata,5.943,8.3,6.7,7.5,2.3,7.3,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não,4.2,10.0,Nível 4 (9o ano),0.0,F,R
+2.0,R,Escola Pública,Veterano,Quartzo,2.468,0.0,0.4,6.3,0.0,6.9,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,4.1,2.5,Nível 6 (2o EM),-4.0,F,R
+3.0,R,Escola Pública,Ingressante,Ametista,7.250,9.2,7.5,7.5,6.5,7.5,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,7.7,5.0,Nível 4 (9o ano),-1.0,M,B
+0.0,Q,Escola Pública,Ingressante,Topázio,9.046,9.5,10.0,7.5,7.9,8.8,Promovido de Fase + Bolsa,Mantido na Fase atual,Não avaliado,Não avaliado,Sim,9.4,10.0,ALFA  (2o e 3o ano),0.0,M,R
+0.0,K,Escola Pública,Veterano,Ametista,7.133,8.5,6.7,7.5,6.6,8.8,Mantido na Fase atual,Não avaliado,Não avaliado,Não avaliado,Não,7.5,5.0,Nível 1 (4o ano),-1.0,M,B
+1.0,J,Escola Pública,Ingressante,Ametista,6.993,8.5,5.8,7.5,5.1,8.1,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,6.9,10.0,Nível 1 (4o ano),0.0,F,B
+1.0,E,Escola Pública,Veterano,Topázio,9.176,10.0,10.0,5.0,9.1,9.0,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Não avaliado,Sim,9.8,10.0,Nível 1 (4o ano),0.0,M,R
+1.0,G,Escola Pública,Ingressante,Quartzo,4.769,10.0,2.5,7.5,0.0,7.2,Não avaliado,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.5,5.0,Nível 2 (5o e 6o ano),-1.0,F,R
+2.0,B,Rede Decisão,Veterano,Ametista,7.196,8.0,8.3,7.5,6.3,7.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.3,5.0,Nível 3 (7o e 8o ano),-1.0,M,R
+0.0,Q,Escola Pública,Ingressante,Ametista,8.075,10.0,10.0,7.5,7.1,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.3,5.0,Nível 2 (5o e 6o ano),-2.0,F,B
+2.0,F,Escola Pública,Veterano,Ametista,7.275,9.0,7.5,7.5,3.9,7.7,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.8,10.0,Nível 2 (5o e 6o ano),0.0,M,B
+2.0,E,Escola Pública,Veterano,Ágata,6.231,7.9,5.0,7.5,4.4,7.9,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.6,5.0,Nível 3 (7o e 8o ano),-1.0,M,R
+2.0,C,Escola Pública,Veterano,Ametista,7.549,9.0,7.5,7.5,7.6,7.9,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Sim,9.2,2.5,Nível 5 (1o EM),-3.0,F,R
+0.0,O,Escola Pública,Ingressante,Ametista,6.958,8.0,6.7,7.5,4.4,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.3,10.0,ALFA  (2o e 3o ano),0.0,F,R
+5.0,B,Rede Decisão,Veterano,Ametista,8.073,8.8,6.1,7.5,8.2,8.6,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Mantido na Fase atual,Não,8.7,10.0,Nível 5 (1o EM),0.0,F,R
+0.0,T,Escola Pública,Ingressante,Topázio,8.758,9.5,10.0,7.5,6.6,8.1,Promovido de Fase,Promovido de Fase,Não avaliado,Não avaliado,Sim,9.7,10.0,ALFA  (2o e 3o ano),0.0,F,R
+2.0,N,Rede Decisão,Veterano,Ametista,7.207,8.5,7.1,7.5,3.9,7.9,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.1,10.0,Nível 2 (5o e 6o ano),0.0,M,R
+1.0,M,Escola Pública,Veterano,Ametista,7.760,9.0,10.0,7.5,4.9,8.1,Mantido na Fase atual,Promovido de Fase,Promovido de Fase,Não avaliado,Sim,9.1,5.0,Nível 2 (5o e 6o ano),-1.0,M,R
+3.0,M,Escola JP II,Veterano,Quartzo,4.286,7.9,2.8,6.3,1.2,6.3,Mantido na Fase atual,Alocado em Fase anterior,Mantido na Fase atual,Não avaliado,Não,4.8,5.0,Nível 4 (9o ano),-1.0,M,B
+2.0,L,Escola Pública,Veterano,Quartzo,4.186,0.0,2.5,7.5,1.0,7.9,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.2,5.0,Nível 3 (7o e 8o ano),-1.0,M,R
+0.0,S,Escola Pública,Ingressante,Ágata,6.733,9.0,5.0,7.5,6.0,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.2,5.0,Nível 1 (4o ano),-1.0,F,B
+5.0,L,Rede Decisão,Veterano,Ametista,7.482,9.2,7.5,7.5,7.3,8.1,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não,7.7,5.0,Nível 6 (2o EM),-1.0,M,R
+3.0,F,Escola Pública,Veterano,Ágata,6.418,10.0,3.9,7.5,3.6,7.3,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.2,10.0,Nível 3 (7o e 8o ano),0.0,M,R
+5.0,B,Rede Decisão,Veterano,Topázio,8.506,10.0,7.8,7.5,7.9,8.8,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Mantido na Fase atual,Não,8.8,10.0,Nível 4 (9o ano),1.0,F,R
+1.0,M,Escola Pública,Veterano,Ametista,7.351,9.5,10.0,7.5,3.6,7.7,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,8.3,5.0,Nível 3 (7o e 8o ano),-2.0,M,B
+0.0,K,Escola Pública,Ingressante,Ágata,5.825,8.5,8.3,4.4,4.4,2.5,Mantido na Fase atual,Alocado em Fase anterior,Não avaliado,Não avaliado,Não,6.2,5.0,Nível 1 (4o ano),-1.0,F,B
+3.0,H,Escola Pública,Ingressante,Quartzo,5.506,6.7,3.1,6.9,5.8,7.3,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.7,5.0,Nível 4 (9o ano),-1.0,F,B
+2.0,M,Escola Pública,Veterano,Quartzo,4.335,0.0,5.4,5.6,1.6,7.8,Mantido na Fase atual,Não avaliado,Mantido na Fase atual,Não avaliado,Não,5.4,5.0,Nível 3 (7o e 8o ano),-1.0,M,B
+6.0,A,Rede Decisão,Veterano,Ágata,6.315,7.5,7.2,2.5,5.3,7.7,Alocado em Fase anterior,Promovido de Fase,Não avaliado,Mantido na Fase atual,Não,5.2,10.0,Nível 6 (2o EM),0.0,M,B
+0.0,K,Escola Pública,Veterano,Ágata,6.598,9.0,8.3,4.4,6.6,5.3,Mantido na Fase atual,Alocado em Fase anterior,Não avaliado,Não avaliado,Não,6.2,5.0,Nível 1 (4o ano),-1.0,F,R
+6.0,C,Escola Pública,Ingressante,Ágata,6.644,7.1,7.2,5.6,7.3,6.9,Mantido na Fase atual,Promovido de Fase,Alocado em Fase anterior,Promovido de Fase,Não,6.5,5.0,Nível 7 (3o EM),-1.0,M,R
+3.0,A,Escola Pública,Ingressante,Ágata,5.683,8.8,4.4,4.4,4.5,6.0,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,4.9,10.0,Nível 3 (7o e 8o ano),0.0,M,B
+2.0,M,Escola Pública,Veterano,Ágata,6.850,8.5,7.9,7.5,4.9,8.1,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.8,5.0,Nível 3 (7o e 8o ano),-1.0,F,R
+2.0,R,Escola Pública,Veterano,Ametista,7.444,7.5,8.3,8.1,4.6,7.9,Mantido na Fase atual,Promovido de Fase,Promovido de Fase,Não avaliado,Não,7.6,10.0,Nível 2 (5o e 6o ano),0.0,M,P
+3.0,B,Rede Decisão,Veterano,Ametista,8.151,9.2,7.5,7.5,6.6,8.1,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Sim,9.3,10.0,Nível 3 (7o e 8o ano),0.0,F,R
+1.0,G,Escola Pública,Veterano,Ametista,7.713,9.5,9.6,7.5,4.8,8.1,Mantido na Fase atual,Mantido na Fase + Bolsa,Promovido de Fase,Não avaliado,Sim,9.2,5.0,Nível 2 (5o e 6o ano),-1.0,M,P
+2.0,L,Escola Pública,Veterano,Ágata,6.243,8.0,7.1,7.5,2.8,7.9,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.1,5.0,Nível 4 (9o ano),-2.0,M,B
+2.0,A,Escola Pública,Veterano,Topázio,8.586,9.5,10.0,7.5,6.2,7.7,Mantido na Fase atual,Promovido de Fase + Bolsa,Mantido na Fase atual,Não avaliado,Sim,9.4,10.0,Nível 2 (5o e 6o ano),0.0,F,B
+3.0,C,Escola Pública,Veterano,Ametista,7.069,8.8,5.0,7.5,7.2,8.3,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.4,5.0,Nível 5 (1o EM),-2.0,M,B
+3.0,J,Escola Pública,Veterano,Ametista,7.724,9.2,8.3,7.5,7.7,7.7,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Não,7.9,5.0,Nível 5 (1o EM),-2.0,M,B
+1.0,J,Escola Pública,Veterano,Ametista,7.990,9.0,9.6,7.5,6.5,8.1,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Não avaliado,Sim,9.1,5.0,Nível 2 (5o e 6o ano),-1.0,F,R
+0.0,T,Escola Pública,Ingressante,Topázio,8.396,9.5,10.0,7.5,7.3,8.1,Promovido de Fase,Promovido de Fase,Não avaliado,Não avaliado,Sim,9.7,5.0,Nível 1 (4o ano),-1.0,M,R
+1.0,A,Rede Decisão,Veterano,Topázio,8.846,8.5,10.0,7.5,8.4,7.7,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Sim,9.0,10.0,Nível 1 (4o ano),0.0,F,P
+1.0,E,Escola Pública,Ingressante,Quartzo,4.088,0.0,2.1,8.1,1.7,6.9,Mantido na Fase atual,Não avaliado,Mantido na Fase atual,Não avaliado,Não,6.7,5.0,Nível 3 (7o e 8o ano),-2.0,M,B
+0.0,Q,Escola Pública,Ingressante,Ametista,8.081,9.0,8.3,7.5,7.0,7.8,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.9,10.0,ALFA  (2o e 3o ano),0.0,F,B
+0.0,P,Escola Pública,Ingressante,Ágata,6.258,8.5,6.7,7.5,2.9,7.5,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.5,5.0,Nível 2 (5o e 6o ano),-2.0,F,B
+3.0,L,Rede Decisão,Veterano,Quartzo,4.451,6.7,2.2,5.0,2.9,5.2,Alocado em Fase anterior,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,3.7,10.0,Nível 3 (7o e 8o ano),0.0,M,R
+1.0,J,Escola Pública,Veterano,Ágata,5.864,10.0,5.8,7.5,1.5,7.9,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.8,5.0,Nível 3 (7o e 8o ano),-2.0,F,P
+5.0,L,Rede Decisão,Veterano,Ágata,6.192,7.1,6.7,6.9,2.7,7.2,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não,6.1,10.0,Nível 5 (1o EM),0.0,F,B
+0.0,O,Escola Pública,Ingressante,Ametista,8.069,8.0,10.0,7.5,7.1,8.4,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.8,5.0,Nível 2 (5o e 6o ano),-2.0,M,R
+2.0,M,Escola Pública,Veterano,Ágata,6.379,7.4,7.5,7.5,1.9,8.1,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.5,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+0.0,J,Escola Pública,Ingressante,Ametista,7.083,9.0,6.7,7.5,6.7,5.6,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não avaliado,Não,8.5,5.0,Nível 1 (4o ano),-1.0,M,B
+5.0,B,Escola Pública,Ingressante,Quartzo,4.511,7.9,3.9,0.0,2.1,7.5,Promovido de Fase,Alocado em Fase anterior,Promovido de Fase + Bolsa,Mantido na Fase atual,Não,6.4,5.0,Nível 7 (3o EM),-2.0,F,B
+1.0,J,Escola Pública,Ingressante,Ametista,7.772,10.0,8.3,7.5,3.9,8.1,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.8,10.0,Nível 1 (4o ano),0.0,F,R
+0.0,Q,Escola Pública,Veterano,Topázio,8.544,9.5,10.0,7.5,7.1,7.8,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.3,10.0,ALFA  (2o e 3o ano),0.0,M,B
+2.0,D,Escola Pública,Veterano,Ametista,7.933,8.5,8.3,7.5,8.3,7.5,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,8.8,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+3.0,R,Escola Pública,Veterano,Ágata,6.058,10.0,5.3,7.5,2.3,7.2,Promovido de Fase,Promovido de Fase,Não avaliado,Não avaliado,Não,5.4,10.0,Nível 3 (7o e 8o ano),0.0,M,R
+1.0,G,Escola Pública,Veterano,Ametista,7.411,7.0,9.6,5.6,6.9,8.3,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,7.6,5.0,Nível 3 (7o e 8o ano),-2.0,M,R
+3.0,M,Escola Pública,Veterano,Quartzo,5.135,7.9,3.3,6.9,4.3,6.7,Mantido na Fase atual,Alocado em Fase anterior,Mantido na Fase atual,Não avaliado,Não,4.8,5.0,Nível 4 (9o ano),-1.0,M,R
+2.0,D,Escola Pública,Veterano,Ametista,8.092,8.0,7.1,7.5,7.9,7.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Sim,9.0,10.0,Nível 2 (5o e 6o ano),0.0,M,R
+3.0,D,Escola Pública,Ingressante,Ágata,5.835,7.9,5.6,7.5,5.4,7.3,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,4.4,5.0,Nível 4 (9o ano),-1.0,F,R
+0.0,I,Escola Pública,Veterano,Ametista,7.273,8.5,10.0,7.5,5.4,7.8,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.6,5.0,Nível 1 (4o ano),-1.0,M,B
+1.0,M,Rede Decisão,Ingressante,Topázio,9.069,9.0,10.0,7.5,8.3,8.1,Promovido de Fase,Mantido na Fase + Bolsa,Promovido de Fase + Bolsa,Não avaliado,Sim,9.7,10.0,Nível 1 (4o ano),0.0,M,R
+4.0,A,Escola Pública,Veterano,Ametista,7.144,9.2,5.6,7.5,5.9,7.5,Promovido de Fase,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não,7.2,10.0,Nível 4 (9o ano),0.0,F,B
+0.0,M,Escola Pública,Ingressante,Ágata,6.133,9.5,5.8,7.5,3.5,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.6,5.0,Nível 1 (4o ano),-1.0,M,R
+5.0,A,Rede Decisão,Veterano,Topázio,8.632,9.6,9.2,7.5,6.8,7.7,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Mantido na Fase atual,Sim,9.9,10.0,Nível 5 (1o EM),0.0,F,R
+2.0,P,Escola Pública,Veterano,Quartzo,5.364,0.0,3.8,7.5,3.1,7.3,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.6,10.0,Nível 2 (5o e 6o ano),0.0,F,B
+2.0,H,Escola Pública,Veterano,Ágata,6.082,9.5,5.4,7.5,3.1,7.3,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.2,5.0,Nível 3 (7o e 8o ano),-1.0,M,R
+6.0,C,Escola Pública,Veterano,Ágata,6.772,8.8,7.8,7.5,5.0,7.5,Mantido na Fase atual,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não,6.7,5.0,Nível 7 (3o EM),-1.0,F,R
+4.0,A,Escola Pública,Veterano,Ágata,6.239,6.7,6.9,5.0,5.1,7.5,Promovido de Fase + Bolsa,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não,7.0,5.0,Nível 6 (2o EM),-2.0,F,B
+2.0,C,Escola Pública,Ingressante,Quartzo,5.061,0.0,2.9,7.5,4.6,7.7,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.7,5.0,Nível 3 (7o e 8o ano),-1.0,M,B
+4.0,G,Rede Decisão,Veterano,Topázio,8.866,8.3,9.7,7.5,7.8,9.2,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Sim,9.3,10.0,Nível 4 (9o ano),0.0,F,R
+6.0,A,Escola Pública,Veterano,Ágata,6.517,7.5,3.9,7.5,5.5,7.8,Mantido na Fase atual,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não,6.8,10.0,Nível 6 (2o EM),0.0,F,R
+2.0,E,Escola Pública,Veterano,Ametista,7.475,8.5,6.7,6.3,5.6,8.5,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.5,10.0,Nível 2 (5o e 6o ano),0.0,F,P
+0.0,M,Escola Pública,Veterano,Ágata,5.910,8.0,8.3,5.0,3.9,6.6,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,5.0,5.0,Nível 1 (4o ano),-1.0,F,R
+2.0,I,Escola Pública,Veterano,Ametista,7.219,9.0,7.9,5.0,6.9,7.5,Mantido na Fase atual,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.1,5.0,Nível 3 (7o e 8o ano),-1.0,M,P
+1.0,J,Escola Pública,Veterano,Ametista,7.247,7.4,8.8,7.5,4.7,8.1,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.8,5.0,Nível 2 (5o e 6o ano),-1.0,M,R
+5.0,A,Rede Decisão,Veterano,Topázio,8.355,10.0,8.3,7.5,9.0,8.0,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Sim,9.3,5.0,Nível 6 (2o EM),-1.0,M,B
+1.0,G,Escola Pública,Veterano,Ametista,7.757,8.5,9.6,6.9,6.6,8.3,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.2,5.0,Nível 2 (5o e 6o ano),-1.0,M,B
+3.0,B,Escola Pública,Veterano,Ametista,7.289,10.0,5.8,7.5,6.4,7.1,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,6.9,10.0,Nível 3 (7o e 8o ano),0.0,M,B
+2.0,G,Escola Pública,Ingressante,Topázio,8.581,10.0,8.3,7.5,8.3,8.1,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.4,10.0,Nível 2 (5o e 6o ano),0.0,F,B
+3.0,G,Rede Decisão,Veterano,Ágata,6.883,8.8,7.5,6.3,6.0,7.9,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Não avaliado,Não,7.0,5.0,Nível 4 (9o ano),-1.0,F,B
+3.0,D,Escola Pública,Ingressante,Ágata,6.469,9.2,5.0,4.4,7.4,9.1,Promovido de Fase + Bolsa,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,6.2,5.0,Nível 4 (9o ano),-1.0,M,R
+1.0,C,Escola Pública,Veterano,Ágata,6.557,8.5,8.3,7.5,2.9,7.9,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.1,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+3.0,F,Escola Pública,Veterano,Quartzo,4.625,9.2,4.7,5.6,1.3,7.3,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,3.6,5.0,Nível 5 (1o EM),-2.0,M,B
+3.0,D,Escola Pública,Ingressante,Ametista,7.747,8.8,6.4,7.5,9.0,8.3,Promovido de Fase,Promovido de Fase,Promovido de Fase + Bolsa,Não avaliado,Não,8.6,5.0,Nível 5 (1o EM),-2.0,F,R
+3.0,M,Escola Pública,Ingressante,Ametista,7.542,7.9,6.1,7.5,7.1,7.5,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,8.1,10.0,Nível 3 (7o e 8o ano),0.0,F,B
+1.0,F,Escola Pública,Ingressante,Ametista,7.310,8.5,8.8,7.5,5.1,8.1,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.1,5.0,Nível 2 (5o e 6o ano),-1.0,M,B
+3.0,C,Escola Pública,Veterano,Ametista,6.908,8.3,6.4,7.5,6.2,7.5,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.8,5.0,Nível 4 (9o ano),-1.0,F,B
+6.0,A,Rede Decisão,Veterano,Ametista,7.233,8.3,7.2,7.5,7.0,8.0,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não,7.6,5.0,Nível 7 (3o EM),-1.0,M,R
+0.0,P,Escola Pública,Ingressante,Ametista,7.604,9.0,7.5,7.5,5.9,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.6,10.0,ALFA  (2o e 3o ano),0.0,M,B
+2.0,N,Rede Decisão,Veterano,Ametista,7.440,7.5,7.5,7.5,5.3,8.1,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.9,10.0,Nível 2 (5o e 6o ano),0.0,F,R
+4.0,G,Rede Decisão,Ingressante,Ametista,7.494,7.1,8.1,6.9,7.6,8.1,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não,8.3,5.0,Nível 6 (2o EM),-2.0,M,R
+1.0,N,Escola Pública,Ingressante,Ametista,8.064,9.0,10.0,7.5,6.1,8.1,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Sim,9.4,5.0,Nível 2 (5o e 6o ano),-1.0,M,P
+2.0,N,Rede Decisão,Veterano,Ametista,7.261,9.5,7.5,6.3,4.2,7.7,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.9,10.0,Nível 2 (5o e 6o ano),0.0,F,R
+1.0,G,Escola Pública,Ingressante,Ametista,7.885,7.0,9.6,7.5,7.3,8.1,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase + Bolsa,Não avaliado,Não,8.8,5.0,Nível 2 (5o e 6o ano),-1.0,F,R
+2.0,G,Escola Pública,Ingressante,Ágata,6.029,0.0,5.4,7.5,6.3,8.3,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.0,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+3.0,C,Escola Pública,Veterano,Ametista,7.239,8.8,6.1,7.5,5.0,7.5,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.2,10.0,Nível 3 (7o e 8o ano),0.0,M,R
+0.0,K,Escola Pública,Ingressante,Quartzo,3.300,8.0,0.0,7.5,0.0,2.5,Não avaliado,Alocado em Fase anterior,Não avaliado,Não avaliado,Não,5.0,5.0,Nível 2 (5o e 6o ano),-2.0,F,R
+0.0,J,Escola Pública,Ingressante,Topázio,8.596,9.5,10.0,7.5,7.7,8.8,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Sim,9.9,5.0,Nível 2 (5o e 6o ano),-2.0,F,R
+0.0,R,Escola Pública,Ingressante,Topázio,8.254,9.5,10.0,7.5,6.6,8.1,Promovido de Fase,Promovido de Fase + Bolsa,Não avaliado,Não avaliado,Sim,9.6,5.0,Nível 1 (4o ano),-1.0,M,B
+1.0,N,Escola Pública,Veterano,Ágata,5.933,6.3,7.9,6.3,2.7,6.9,Alocado em Fase anterior,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.8,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+1.0,B,Escola Pública,Ingressante,Ágata,6.249,9.0,7.1,7.5,5.4,5.8,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.1,5.0,Nível 2 (5o e 6o ano),-1.0,F,R
+3.0,L,Rede Decisão,Veterano,Topázio,8.296,7.9,7.5,7.5,7.2,8.5,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Mantido na Fase atual,Não avaliado,Sim,9.8,10.0,Nível 2 (5o e 6o ano),1.0,F,B
+1.0,G,Escola Pública,Veterano,Quartzo,4.081,9.5,0.4,7.5,1.1,7.2,Não avaliado,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,4.3,5.0,Nível 2 (5o e 6o ano),-1.0,M,R
+4.0,F,Escola Pública,Veterano,Ágata,6.427,8.8,6.4,1.9,6.3,8.3,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Não,7.5,5.0,Nível 5 (1o EM),-1.0,M,B
+0.0,L,Escola Pública,Ingressante,Ametista,7.965,9.0,8.3,7.5,6.1,7.2,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.6,10.0,ALFA  (2o e 3o ano),0.0,M,B
+2.0,P,Escola Pública,Veterano,Quartzo,5.207,0.0,3.3,7.5,5.8,7.5,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,6.9,5.0,Nível 3 (7o e 8o ano),-1.0,F,R
+2.0,N,Escola Pública,Veterano,Ametista,7.107,9.0,5.4,7.5,5.2,7.9,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.7,10.0,Nível 2 (5o e 6o ano),0.0,F,B
+5.0,F,Rede Decisão,Veterano,Ágata,6.050,5.4,3.6,5.0,6.6,7.0,Mantido na Fase atual,Mantido na Fase + Bolsa,Promovido de Fase,Mantido na Fase atual,Não,6.3,10.0,Nível 5 (1o EM),0.0,F,R
+2.0,H,Escola Pública,Veterano,Ametista,7.604,9.5,7.5,7.5,7.4,7.5,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.3,5.0,Nível 3 (7o e 8o ano),-1.0,M,R
+1.0,F,Escola Pública,Veterano,Ágata,5.751,8.0,5.8,7.5,0.9,7.7,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.9,5.0,Nível 2 (5o e 6o ano),-1.0,M,B
+2.0,G,Rede Decisão,Veterano,Ametista,6.892,9.0,5.8,7.5,5.6,7.3,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.2,10.0,Nível 2 (5o e 6o ano),0.0,F,B
+2.0,A,Rede Decisão,Veterano,Topázio,8.767,8.5,10.0,5.0,8.6,7.9,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Sim,9.5,10.0,Nível 2 (5o e 6o ano),0.0,M,B
+3.0,G,Rede Decisão,Veterano,Ágata,6.858,7.9,6.1,4.4,6.4,6.9,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Não avaliado,Não,7.2,10.0,Nível 3 (7o e 8o ano),0.0,F,R
+0.0,K,Escola Pública,Ingressante,Topázio,8.931,9.5,10.0,7.5,6.9,8.4,Mantido na Fase + Bolsa,Mantido na Fase + Bolsa,Não avaliado,Não avaliado,Sim,10.0,10.0,ALFA  (2o e 3o ano),0.0,F,B
+3.0,J,Escola Pública,Veterano,Ametista,7.693,8.8,8.3,7.5,7.5,7.7,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Não,8.1,5.0,Nível 5 (1o EM),-2.0,M,P
+0.0,I,Escola Pública,Veterano,Ametista,7.506,10.0,10.0,6.9,6.4,7.8,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.3,5.0,Nível 2 (5o e 6o ano),-2.0,M,B
+2.0,P,Escola Pública,Veterano,Quartzo,3.752,0.0,1.7,7.5,0.8,7.2,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não avaliado,Não,6.5,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+0.0,S,Escola Pública,Ingressante,Ametista,7.400,7.0,10.0,7.5,6.3,2.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.2,10.0,ALFA  (2o e 3o ano),0.0,M,R
+1.0,B,Escola Pública,Veterano,Ametista,7.449,8.0,10.0,7.5,5.2,7.5,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,8.1,5.0,Nível 2 (5o e 6o ano),-1.0,F,P
+2.0,M,Escola Pública,Ingressante,Ametista,7.292,9.0,7.9,7.5,6.1,8.1,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.7,5.0,Nível 3 (7o e 8o ano),-1.0,F,P
+1.0,N,Escola Pública,Veterano,Ametista,7.636,9.0,8.3,7.5,6.3,8.1,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.7,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+3.0,J,Rede Decisão,Veterano,Topázio,8.475,9.6,8.9,7.5,6.9,7.9,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Sim,9.1,10.0,Nível 3 (7o e 8o ano),0.0,F,R
+2.0,H,Escola Pública,Veterano,Quartzo,4.946,9.0,0.8,7.5,1.1,7.5,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.3,5.0,Nível 3 (7o e 8o ano),-1.0,M,R
+3.0,J,Rede Decisão,Veterano,Ametista,7.844,8.8,7.2,7.5,5.8,7.9,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Sim,9.2,10.0,Nível 2 (5o e 6o ano),1.0,F,B
+1.0,F,Escola Pública,Veterano,Ametista,7.219,9.0,9.2,7.5,1.9,7.7,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.9,10.0,Nível 1 (4o ano),0.0,F,R
+0.0,O,Escola Pública,Ingressante,Ametista,7.896,9.0,10.0,7.5,5.8,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Sim,9.2,5.0,Nível 1 (4o ano),-1.0,F,P
+3.0,B,Escola Pública,Ingressante,Ametista,7.008,9.6,6.1,7.5,5.6,7.1,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.2,10.0,Nível 3 (7o e 8o ano),0.0,M,R
+6.0,C,Rede Decisão,Veterano,Ágata,5.672,7.5,3.9,0.0,6.8,7.1,Mantido na Fase atual,Promovido de Fase,Não avaliado,Promovido de Fase,Não,5.4,10.0,Nível 6 (2o EM),0.0,F,R
+2.0,D,Escola Pública,Veterano,Ametista,6.917,8.4,5.4,7.5,7.1,7.5,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,7.8,5.0,Nível 3 (7o e 8o ano),-1.0,F,R
+2.0,P,Escola Pública,Veterano,Topázio,8.782,9.0,7.9,7.5,8.4,9.2,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Não avaliado,Sim,9.7,10.0,Nível 2 (5o e 6o ano),0.0,F,B
+1.0,B,Escola Pública,Veterano,Topázio,8.863,9.5,10.0,7.5,8.1,7.5,Promovido de Fase + Bolsa,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Sim,9.0,10.0,Nível 1 (4o ano),0.0,M,B
+1.0,R,Escola Pública,Ingressante,Ametista,7.451,10.0,8.3,7.5,5.1,8.5,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.3,5.0,Nível 3 (7o e 8o ano),-2.0,F,R
+2.0,M,Escola Pública,Veterano,Ametista,7.679,8.0,9.2,7.5,5.8,8.3,Mantido na Fase atual,Promovido de Fase,Promovido de Fase,Não avaliado,Sim,9.0,5.0,Nível 3 (7o e 8o ano),-1.0,M,R
+1.0,C,Escola Pública,Veterano,Ametista,7.718,9.5,7.9,6.9,6.0,8.8,Promovido de Fase,Mantido na Fase + Bolsa,Promovido de Fase,Não avaliado,Sim,9.6,5.0,Nível 2 (5o e 6o ano),-1.0,M,R
+4.0,F,Escola Pública,Ingressante,Ágata,6.619,8.3,6.1,0.0,6.5,8.0,Promovido de Fase,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não,7.3,10.0,Nível 4 (9o ano),0.0,F,R
+0.0,M,Escola Pública,Ingressante,Topázio,8.367,9.5,10.0,7.5,6.8,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.8,10.0,ALFA  (2o e 3o ano),0.0,M,R
+0.0,L,Escola Pública,Ingressante,Topázio,8.250,9.0,10.0,7.5,5.5,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.8,10.0,ALFA  (2o e 3o ano),0.0,M,B
+1.0,R,Escola Pública,Ingressante,Ametista,7.457,7.9,8.8,7.5,6.0,8.5,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.1,5.0,Nível 2 (5o e 6o ano),-1.0,M,B
+0.0,R,Escola Pública,Ingressante,Topázio,8.788,10.0,10.0,7.5,6.9,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Sim,9.5,10.0,ALFA  (2o e 3o ano),0.0,F,P
+3.0,F,Escola Pública,Veterano,Quartzo,3.599,0.0,1.7,7.5,1.3,6.9,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,2.9,10.0,Nível 3 (7o e 8o ano),0.0,F,R
+3.0,F,Escola Pública,Ingressante,Ágata,6.421,7.5,4.7,5.0,4.7,7.7,Promovido de Fase,Promovido de Fase + Bolsa,Mantido na Fase atual,Não avaliado,Não,7.6,10.0,Nível 3 (7o e 8o ano),0.0,F,R
+3.0,L,Escola Pública,Ingressante,Ametista,7.494,8.3,5.6,7.5,5.8,8.3,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Sim,9.0,10.0,Nível 3 (7o e 8o ano),0.0,M,R
+0.0,S,Escola Pública,Ingressante,Quartzo,4.900,9.5,0.0,7.5,2.3,7.5,Não avaliado,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.5,5.0,Nível 1 (4o ano),-1.0,F,R
+0.0,N,Escola Pública,Ingressante,Ágata,6.817,10.0,10.0,0.0,6.3,5.0,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.8,5.0,Nível 2 (5o e 6o ano),-2.0,M,R
+0.0,R,Escola Pública,Ingressante,Ametista,8.000,9.5,10.0,7.5,7.0,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.3,5.0,Nível 1 (4o ano),-1.0,M,R
+3.0,M,Escola Pública,Ingressante,Ágata,6.540,6.7,4.7,7.5,5.8,7.3,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.5,10.0,Nível 3 (7o e 8o ano),0.0,F,B
+1.0,E,Escola Pública,Veterano,Topázio,8.544,9.5,10.0,7.5,8.1,8.8,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Sim,9.2,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+6.0,A,Escola Pública,Ingressante,Ametista,7.501,9.2,8.6,7.5,6.8,8.1,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não,7.2,5.0,Nível 7 (3o EM),-1.0,M,R
+1.0,E,Escola Pública,Veterano,Ametista,7.758,9.5,9.6,7.5,5.4,8.3,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.7,5.0,Nível 2 (5o e 6o ano),-1.0,M,R
+2.0,A,Escola Pública,Ingressante,Ametista,7.194,9.5,7.1,7.5,5.7,7.3,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.6,5.0,Nível 3 (7o e 8o ano),-1.0,F,R
+3.0,C,Escola Pública,Veterano,Ametista,7.033,9.2,5.3,7.5,4.6,7.5,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.2,10.0,Nível 3 (7o e 8o ano),0.0,F,B
+1.0,B,Escola Pública,Ingressante,Ametista,6.914,8.5,8.3,7.5,5.4,7.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.6,5.0,Nível 2 (5o e 6o ano),-1.0,M,B
+5.0,A,Rede Decisão,Veterano,Ametista,7.859,7.5,7.2,7.5,6.3,7.8,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Mantido na Fase atual,Sim,9.4,10.0,Nível 5 (1o EM),0.0,F,R
+2.0,R,Escola Pública,Veterano,Quartzo,4.450,9.0,1.7,8.1,0.0,7.7,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.7,5.0,Nível 3 (7o e 8o ano),-1.0,F,R
+2.0,E,Escola Pública,Ingressante,Quartzo,3.498,0.0,2.9,5.0,0.0,7.8,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,5.7,5.0,Nível 4 (9o ano),-2.0,F,R
+1.0,F,Escola Pública,Veterano,Ametista,7.954,8.0,9.6,6.9,5.6,7.9,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.2,10.0,Nível 1 (4o ano),0.0,M,R
+4.0,L,Escola Pública,Ingressante,Ágata,6.234,8.8,7.5,7.5,3.9,7.3,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Promovido de Fase,Não,5.5,5.0,Nível 5 (1o EM),-1.0,F,R
+0.0,O,Escola Pública,Ingressante,Ametista,7.746,7.9,10.0,7.5,6.2,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.6,5.0,Nível 2 (5o e 6o ano),-2.0,M,B
+2.0,M,Escola Pública,Veterano,Ametista,7.329,8.5,8.8,7.5,5.0,8.1,Mantido na Fase atual,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.3,5.0,Nível 3 (7o e 8o ano),-1.0,F,R
+1.0,G,Escola Pública,Veterano,Ágata,5.653,9.0,2.9,7.5,3.6,7.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.2,5.0,Nível 2 (5o e 6o ano),-1.0,M,R
+1.0,M,Escola Pública,Veterano,Ametista,7.179,8.5,8.8,7.5,3.7,7.9,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Sim,9.0,5.0,Nível 2 (5o e 6o ano),-1.0,F,R
+6.0,A,Rede Decisão,Veterano,Ametista,7.225,7.9,7.2,7.5,5.4,8.0,Promovido de Fase,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não,6.8,10.0,Nível 3 (7o e 8o ano),3.0,F,R
+1.0,C,Escola Pública,Veterano,Topázio,9.294,10.0,9.2,8.1,8.9,9.2,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Sim,9.7,10.0,ALFA  (2o e 3o ano),1.0,F,B
+3.0,B,Rede Decisão,Veterano,Topázio,8.814,10.0,8.9,7.5,7.5,8.3,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Sim,9.7,10.0,Nível 3 (7o e 8o ano),0.0,M,R
+0.0,L,Escola Pública,Ingressante,Topázio,8.313,10.0,10.0,7.5,5.3,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.8,10.0,ALFA  (2o e 3o ano),0.0,F,R
+1.0,F,Escola Pública,Ingressante,Topázio,8.331,10.0,9.6,6.3,5.9,8.1,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.9,10.0,Nível 1 (4o ano),0.0,F,R
+2.0,G,Escola Pública,Veterano,Quartzo,4.000,0.0,2.9,5.6,3.3,6.0,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,5.5,5.0,Nível 4 (9o ano),-2.0,F,R
+1.0,N,Escola Pública,Ingressante,Ametista,6.889,9.5,7.9,7.5,3.6,7.9,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.9,5.0,Nível 2 (5o e 6o ano),-1.0,M,B
+2.0,D,Escola Pública,Veterano,Ágata,6.621,9.5,6.3,6.3,5.5,7.3,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.3,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+2.0,B,Escola Pública,Ingressante,Ametista,8.217,10.0,9.6,7.5,8.0,7.5,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.5,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+2.0,A,Escola Pública,Veterano,Ágata,6.871,9.0,5.4,7.5,5.1,6.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.3,10.0,Nível 2 (5o e 6o ano),0.0,F,B
+7.0,A,Rede Decisão,Veterano,Ametista,7.242,8.3,7.2,6.3,6.5,7.8,Mantido na Fase atual,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não,6.3,10.0,Nível 7 (3o EM),0.0,F,B
+3.0,M,Escola Pública,Ingressante,Ágata,6.376,7.5,4.4,7.5,6.5,6.9,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.0,10.0,Nível 3 (7o e 8o ano),0.0,M,B
+1.0,E,Escola Pública,Ingressante,Quartzo,3.638,0.0,1.7,6.9,0.4,7.1,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.7,5.0,Nível 3 (7o e 8o ano),-2.0,M,R
+0.0,N,Escola Pública,Ingressante,Ametista,7.129,9.5,8.3,0.0,6.8,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.0,10.0,ALFA  (2o e 3o ano),0.0,M,B
+2.0,A,Escola Pública,Veterano,Ametista,7.383,10.0,5.8,7.5,5.6,7.1,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.2,10.0,Nível 1 (4o ano),1.0,M,P
+4.0,L,Escola Pública,Ingressante,Ametista,7.906,8.8,5.8,7.5,8.4,7.8,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase + Bolsa,Não,8.3,10.0,Nível 4 (9o ano),0.0,F,R
+4.0,G,Rede Decisão,Ingressante,Ametista,7.634,7.5,8.6,6.3,7.5,8.3,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Não,8.5,5.0,Nível 6 (2o EM),-2.0,F,B
+4.0,F,Escola Pública,Ingressante,Ametista,7.264,7.9,8.6,5.6,6.0,8.1,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Não,8.4,5.0,Nível 6 (2o EM),-2.0,F,B
+3.0,G,Escola Pública,Ingressante,Quartzo,5.047,7.1,3.3,7.5,4.0,6.7,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,4.8,5.0,Nível 4 (9o ano),-1.0,F,P
+3.0,A,Rede Decisão,Veterano,Ametista,7.547,9.2,7.8,6.3,5.5,7.9,Promovido de Fase,Promovido de Fase + Bolsa,Mantido na Fase atual,Não avaliado,Não,7.8,10.0,Nível 3 (7o e 8o ano),0.0,M,R
+4.0,F,Rede Decisão,Veterano,Ametista,7.961,9.2,8.9,5.0,8.1,8.8,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Não,8.9,5.0,Nível 5 (1o EM),-1.0,F,B
+2.0,I,Escola Pública,Veterano,Ametista,7.261,6.8,7.9,6.9,4.6,7.7,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.1,10.0,Nível 2 (5o e 6o ano),0.0,M,B
+2.0,N,Rede Decisão,Veterano,Topázio,9.107,10.0,10.0,7.5,9.5,9.8,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Não avaliado,Sim,9.9,5.0,Nível 3 (7o e 8o ano),-1.0,M,B
+3.0,M,Escola Pública,Veterano,Ágata,5.774,7.1,5.6,7.5,4.1,6.9,Mantido na Fase atual,Alocado em Fase anterior,Mantido na Fase atual,Não avaliado,Não,6.0,5.0,Nível 4 (9o ano),-1.0,M,B
+7.0,A,Rede Decisão,Veterano,Ametista,7.584,7.1,8.6,7.5,8.0,8.3,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Não,7.4,5.0,Nível 8 (Universitários),-1.0,M,B
+4.0,E,Escola Pública,Veterano,Topázio,8.292,8.8,9.2,7.5,8.2,8.8,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Sim,9.1,5.0,Nível 5 (1o EM),-1.0,F,P
+3.0,C,Escola Pública,Veterano,Ágata,6.497,8.8,5.8,7.5,5.0,7.5,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.3,5.0,Nível 4 (9o ano),-1.0,F,B
+5.0,B,Escola Pública,Ingressante,Ágata,6.545,7.5,6.1,7.5,5.5,7.8,Promovido de Fase + Bolsa,Alocado em Fase anterior,Promovido de Fase + Bolsa,Mantido na Fase atual,Não,7.2,5.0,Nível 7 (3o EM),-2.0,F,R
+2.0,P,Escola Pública,Veterano,Ametista,6.969,7.4,5.0,7.5,6.9,8.1,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.9,5.0,Nível 4 (9o ano),-2.0,F,B
+0.0,O,Escola Pública,Ingressante,Ametista,7.154,8.5,10.0,3.8,6.3,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.1,5.0,Nível 1 (4o ano),-1.0,F,R
+3.0,A,Escola Pública,Ingressante,Ametista,7.775,9.6,7.2,7.5,6.1,7.5,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.3,10.0,Nível 3 (7o e 8o ano),0.0,M,B
+5.0,L,Escola Pública,Ingressante,Ametista,8.181,9.6,8.1,7.5,8.9,8.8,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Não,8.6,5.0,Nível 6 (2o EM),-1.0,F,R
+0.0,P,Escola Pública,Veterano,Ágata,5.825,9.0,4.2,7.5,5.4,5.0,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.3,5.0,Nível 2 (5o e 6o ano),-2.0,M,B
+1.0,G,Escola Pública,Veterano,Ametista,7.318,8.0,8.8,7.5,5.8,8.3,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.6,5.0,Nível 2 (5o e 6o ano),-1.0,M,R
+3.0,L,Escola Pública,Ingressante,Ágata,5.931,0.0,5.3,7.5,7.8,7.9,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,6.3,5.0,Nível 4 (9o ano),-1.0,F,B
+0.0,R,Escola Pública,Ingressante,Topázio,9.048,9.5,10.0,7.5,7.7,8.4,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Não avaliado,Não avaliado,Sim,9.8,10.0,ALFA  (2o e 3o ano),0.0,F,B
+4.0,A,Escola Pública,Ingressante,Ágata,6.730,8.8,5.3,5.6,6.5,7.0,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não,6.2,10.0,Nível 4 (9o ano),0.0,M,P
+0.0,R,Escola Pública,Ingressante,Ametista,7.629,7.5,6.7,7.5,7.1,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.2,10.0,ALFA  (2o e 3o ano),0.0,F,R
+5.0,L,Rede Decisão,Veterano,Ametista,8.014,8.8,8.3,7.5,8.6,8.3,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não,8.4,5.0,Nível 6 (2o EM),-1.0,F,B
+4.0,A,Escola Pública,Ingressante,Ametista,7.130,7.9,5.8,7.5,5.8,8.0,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Mantido na Fase atual,Não,7.4,10.0,Nível 4 (9o ano),0.0,F,B
+3.0,L,Escola Pública,Veterano,Ágata,6.458,7.9,6.1,3.8,6.9,5.8,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.1,5.0,Nível 5 (1o EM),-2.0,F,B
+0.0,S,Escola Pública,Ingressante,Ágata,6.571,9.0,5.0,7.5,6.2,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.2,5.0,Nível 1 (4o ano),-1.0,F,B
+3.0,F,Escola Pública,Veterano,Ametista,7.765,7.9,8.6,7.5,7.2,7.7,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Não,8.9,5.0,Nível 4 (9o ano),-1.0,M,R
+2.0,E,Escola Pública,Veterano,Quartzo,3.979,0.0,2.1,6.9,3.5,5.4,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.7,5.0,Nível 4 (9o ano),-2.0,F,P
+2.0,G,Escola Pública,Veterano,Ágata,6.294,10.0,6.3,7.5,1.8,6.9,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.2,10.0,Nível 2 (5o e 6o ano),0.0,M,B
+1.0,M,Escola Pública,Veterano,Ametista,8.104,9.5,9.6,7.5,6.9,8.1,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Sim,9.0,5.0,Nível 3 (7o e 8o ano),-2.0,F,P
+1.0,E,Escola Pública,Veterano,Quartzo,4.275,9.5,1.3,8.1,0.0,7.3,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.2,5.0,Nível 2 (5o e 6o ano),-1.0,M,B
+3.0,F,Rede Decisão,Veterano,Topázio,9.025,8.8,8.9,6.3,9.2,9.2,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Sim,9.9,10.0,Nível 3 (7o e 8o ano),0.0,F,P
+6.0,C,Rede Decisão,Veterano,Ágata,6.775,8.3,7.2,3.8,6.0,6.7,Mantido na Fase atual,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não,6.3,10.0,Nível 6 (2o EM),0.0,F,R
+1.0,J,Escola Pública,Veterano,Ágata,5.915,8.0,6.3,7.5,2.2,8.4,Não avaliado,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.7,5.0,Nível 2 (5o e 6o ano),-1.0,M,B
+5.0,B,Rede Decisão,Veterano,Ametista,8.003,9.2,6.9,8.1,8.5,8.4,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Sim,9.3,5.0,Nível 6 (2o EM),-1.0,M,B
+1.0,F,Escola Pública,Veterano,Ametista,7.961,9.0,9.6,5.6,7.6,8.1,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.7,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+0.0,L,Escola Pública,Ingressante,Ametista,7.006,7.4,8.3,7.5,4.4,6.6,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.6,10.0,ALFA  (2o e 3o ano),0.0,M,B
+1.0,B,Escola Pública,Ingressante,Ametista,7.614,8.5,9.2,7.5,6.4,7.5,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.3,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+2.0,M,Escola Pública,Veterano,Ametista,7.554,8.5,8.8,7.5,6.1,8.1,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,8.3,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+3.0,A,Rede Decisão,Ingressante,Quartzo,4.615,7.5,2.5,4.4,1.9,7.1,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,4.2,10.0,Nível 3 (7o e 8o ano),0.0,M,B
+3.0,B,Escola Pública,Veterano,Topázio,8.322,9.2,8.6,7.5,7.4,7.9,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Não,8.3,10.0,Nível 3 (7o e 8o ano),0.0,F,B
+7.0,A,Escola Pública,Ingressante,Ametista,7.892,9.2,6.9,7.5,6.1,8.3,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Não,9.0,10.0,ERRO,0.0,F,P
+7.0,A,Rede Decisão,Veterano,Ametista,8.040,8.3,8.3,7.5,7.8,7.8,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Não,7.3,10.0,Nível 7 (3o EM),0.0,M,B
+2.0,J,Escola Pública,Veterano,Quartzo,4.814,9.5,3.3,5.0,2.4,6.7,Alocado em Fase anterior,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.3,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+0.0,S,Escola Pública,Ingressante,Ametista,7.025,8.5,8.3,7.5,4.9,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.7,5.0,Nível 1 (4o ano),-1.0,M,B
+7.0,A,Rede Decisão,Veterano,Ametista,7.031,7.1,6.1,5.6,6.5,8.1,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Não,7.1,10.0,Nível 7 (3o EM),0.0,F,R
+1.0,G,Escola Pública,Ingressante,Topázio,8.797,10.0,9.6,7.5,6.9,8.3,Promovido de Fase,Mantido na Fase atual,Mantido na Fase + Bolsa,Não avaliado,Sim,9.6,10.0,Nível 1 (4o ano),0.0,F,R
+2.0,A,Escola Pública,Veterano,Ametista,8.040,8.5,9.2,7.5,5.5,7.3,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.9,10.0,Nível 2 (5o e 6o ano),0.0,F,B
+0.0,T,Escola Pública,Ingressante,Topázio,8.871,8.5,10.0,7.5,7.6,8.1,Promovido de Fase,Promovido de Fase,Não avaliado,Não avaliado,Sim,9.7,10.0,ALFA  (2o e 3o ano),0.0,M,R
+0.0,L,Escola Pública,Ingressante,Topázio,8.250,8.0,10.0,7.5,6.8,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.0,10.0,ALFA  (2o e 3o ano),0.0,M,R
+0.0,L,Escola Pública,Ingressante,Ágata,6.748,8.4,6.7,7.5,4.8,6.6,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.1,10.0,ALFA  (2o e 3o ano),0.0,F,R
+1.0,G,Escola Pública,Ingressante,Ágata,5.703,9.0,4.2,6.3,3.3,7.5,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.2,5.0,Nível 2 (5o e 6o ano),-1.0,F,R
+1.0,M,Escola Pública,Ingressante,Ametista,7.496,10.0,10.0,7.5,3.0,8.1,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Não avaliado,Sim,9.2,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+1.0,B,Escola Pública,Ingressante,Ametista,7.401,9.5,10.0,2.5,6.3,7.5,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.4,5.0,Nível 2 (5o e 6o ano),-1.0,M,B
+3.0,A,Rede Decisão,Veterano,Ametista,8.181,8.8,8.6,7.5,7.6,9.2,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Sim,9.5,5.0,Nível 4 (9o ano),-1.0,M,R
+5.0,B,Rede Decisão,Veterano,Ametista,8.201,7.9,7.5,7.5,7.9,8.6,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Mantido na Fase atual,Não,8.6,10.0,Nível 4 (9o ano),1.0,M,P
+2.0,N,Escola Pública,Ingressante,Topázio,8.618,9.0,10.0,7.5,8.0,9.8,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Sim,9.4,5.0,Nível 3 (7o e 8o ano),-1.0,M,R
+2.0,R,Escola Pública,Veterano,Ágata,6.779,6.8,8.3,8.1,4.7,8.1,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.8,5.0,Nível 3 (7o e 8o ano),-1.0,F,B
+2.0,R,Escola Pública,Veterano,Ágata,6.621,5.3,8.3,8.1,4.7,8.1,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.8,5.0,Nível 3 (7o e 8o ano),-1.0,M,R
+3.0,L,Escola Pública,Veterano,Quartzo,3.603,0.0,0.6,7.5,3.1,6.3,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,2.5,10.0,Nível 3 (7o e 8o ano),0.0,F,B
+1.0,J,Escola Pública,Veterano,Ágata,5.588,9.5,5.8,4.4,0.7,8.1,Não avaliado,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.9,5.0,Nível 2 (5o e 6o ano),-1.0,F,R
+4.0,G,Rede Decisão,Veterano,Ametista,7.714,7.1,8.6,6.9,5.8,8.1,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Promovido de Fase,Não,8.1,10.0,Nível 3 (7o e 8o ano),1.0,M,B
+2.0,E,Escola Pública,Veterano,Quartzo,4.133,0.0,1.7,6.3,3.1,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.5,5.0,Nível 3 (7o e 8o ano),-1.0,F,R
+2.0,H,Escola Pública,Veterano,Quartzo,2.717,0.0,0.8,7.5,0.9,6.3,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,2.5,5.0,Nível 3 (7o e 8o ano),-1.0,M,R
+5.0,F,Rede Decisão,Veterano,Ametista,7.416,9.6,6.7,5.0,7.8,7.7,Mantido na Fase atual,Mantido na Fase + Bolsa,Promovido de Fase,Promovido de Fase,Não,6.5,10.0,Nível 5 (1o EM),0.0,M,P
+0.0,L,Escola Pública,Ingressante,Ametista,7.229,8.5,6.7,7.5,5.6,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.2,10.0,ALFA  (2o e 3o ano),0.0,F,B
+3.0,F,Escola Pública,Ingressante,Quartzo,4.372,6.7,2.2,7.5,2.3,7.1,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,4.2,5.0,Nível 4 (9o ano),-1.0,M,R
+1.0,R,Escola Pública,Ingressante,Ágata,5.574,8.5,5.8,7.5,2.0,7.3,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.9,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+2.0,K,Escola Pública,Ingressante,Ametista,6.917,7.4,7.9,7.5,4.3,7.9,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.5,5.0,Nível 3 (7o e 8o ano),-1.0,M,R
+1.0,G,Escola Pública,Ingressante,Quartzo,5.507,7.4,4.6,7.5,2.4,8.1,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,6.6,5.0,Nível 2 (5o e 6o ano),-1.0,M,B
+1.0,B,Escola Pública,Veterano,Ametista,7.389,10.0,8.8,7.5,5.8,7.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.4,5.0,Nível 2 (5o e 6o ano),-1.0,F,P
+3.0,G,Rede Decisão,Veterano,Ágata,6.047,9.2,3.9,5.6,6.5,7.7,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,6.1,5.0,Nível 4 (9o ano),-1.0,F,B
+3.0,R,Escola Pública,Veterano,Ágata,6.343,6.7,5.8,6.9,5.8,7.5,Promovido de Fase,Promovido de Fase,Promovido de Fase,Não avaliado,Não,7.1,5.0,Nível 4 (9o ano),-1.0,F,P
+3.0,M,Escola Pública,Veterano,Ametista,7.789,8.8,7.2,6.3,8.1,7.5,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,7.4,10.0,Nível 3 (7o e 8o ano),0.0,M,B
+3.0,C,Escola Pública,Veterano,Ametista,7.379,9.2,5.8,7.5,6.8,7.5,Promovido de Fase,Mantido na Fase + Bolsa,Mantido na Fase atual,Não avaliado,Não,7.2,10.0,Nível 3 (7o e 8o ano),0.0,F,P
+5.0,A,Escola Pública,Veterano,Ágata,6.541,9.2,7.5,7.5,3.6,7.7,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Mantido na Fase atual,Não,6.9,5.0,Nível 6 (2o EM),-1.0,M,B
+1.0,C,Escola Pública,Veterano,Ágata,6.163,9.0,5.0,7.5,3.9,7.7,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.3,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+2.0,E,Escola Pública,Veterano,Ágata,6.254,8.0,4.2,8.1,3.1,7.3,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.3,10.0,Nível 2 (5o e 6o ano),0.0,M,B
+3.0,R,Escola Pública,Ingressante,Quartzo,4.817,10.0,3.3,5.6,1.8,6.9,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não avaliado,Não,2.8,10.0,Nível 3 (7o e 8o ano),0.0,M,R
+1.0,A,Escola Pública,Ingressante,Ametista,6.978,8.0,7.5,7.5,5.0,7.5,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,8.4,5.0,Nível 2 (5o e 6o ano),-1.0,F,R
+1.0,G,Escola Pública,Veterano,Topázio,8.468,9.5,9.6,7.5,7.8,8.3,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Sim,9.8,5.0,Nível 2 (5o e 6o ano),-1.0,F,B
+0.0,P,Escola Pública,Veterano,Ágata,5.671,8.0,4.2,7.5,4.6,6.3,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,6.2,5.0,Nível 2 (5o e 6o ano),-2.0,F,R
+5.0,L,Escola Pública,Ingressante,Quartzo,4.729,8.3,1.9,0.0,3.8,7.3,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não,5.1,10.0,Nível 5 (1o EM),0.0,F,R
+1.0,J,Escola Pública,Veterano,Topázio,8.407,9.0,10.0,7.5,5.9,7.7,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Sim,9.1,10.0,Nível 1 (4o ano),0.0,F,B
+0.0,K,Escola Pública,Ingressante,Ametista,8.015,10.0,8.3,7.5,6.5,7.8,Mantido na Fase atual,Mantido na Fase + Bolsa,Não avaliado,Não avaliado,Não,7.6,10.0,ALFA  (2o e 3o ano),0.0,M,B
+0.0,J,Escola Pública,Veterano,Ametista,7.546,8.0,10.0,7.5,5.3,7.5,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não avaliado,Não,8.4,5.0,Nível 2 (5o e 6o ano),-2.0,F,R
+7.0,A,Rede Decisão,Veterano,Ágata,6.787,8.8,7.2,5.6,5.8,6.7,Mantido na Fase atual,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não,5.4,10.0,Nível 7 (3o EM),0.0,M,B
+2.0,L,Escola Pública,Veterano,Ágata,6.860,8.5,7.9,7.5,4.8,7.9,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.1,5.0,Nível 3 (7o e 8o ano),-1.0,M,R
+3.0,A,Rede Decisão,Veterano,Topázio,8.614,9.6,9.7,7.5,6.7,8.8,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Não,8.7,10.0,Nível 3 (7o e 8o ano),0.0,M,P
+1.0,G,Escola Pública,Veterano,Ágata,6.844,9.5,8.8,7.5,3.5,7.5,Promovido de Fase,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.2,5.0,Nível 2 (5o e 6o ano),-1.0,M,B
+0.0,O,Escola Pública,Veterano,Ametista,7.521,10.0,8.3,7.5,6.4,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.8,5.0,Nível 1 (4o ano),-1.0,F,B
+7.0,A,Rede Decisão,Veterano,Ametista,7.936,7.1,8.3,7.5,7.2,8.3,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Promovido de Fase + Bolsa,Não,7.8,10.0,Nível 7 (3o EM),0.0,M,B
+1.0,J,Escola Pública,Ingressante,Ametista,7.297,9.0,8.8,7.5,5.3,7.9,Mantido na Fase atual,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,7.8,5.0,Nível 2 (5o e 6o ano),-1.0,M,P
+3.0,D,Escola Pública,Ingressante,Ametista,7.983,9.6,7.5,7.5,6.0,8.3,Promovido de Fase,Mantido na Fase atual,Promovido de Fase,Não avaliado,Não,8.7,10.0,Nível 3 (7o e 8o ano),0.0,F,B
+1.0,R,Escola Pública,Veterano,Quartzo,3.827,0.0,3.3,7.5,0.6,7.2,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.3,5.0,Nível 3 (7o e 8o ano),-2.0,M,R
+2.0,B,Escola Pública,Ingressante,Ametista,6.917,7.0,6.7,7.5,4.8,7.5,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.2,10.0,Nível 2 (5o e 6o ano),0.0,F,N
+3.0,D,Escola Pública,Ingressante,Quartzo,4.892,7.1,3.3,2.5,2.3,7.5,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.8,5.0,Nível 4 (9o ano),-1.0,F,N
+3.0,A,Escola Pública,Ingressante,Ágata,6.625,9.2,5.3,7.5,3.5,7.5,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.2,10.0,Nível 3 (7o e 8o ano),0.0,F,R
+2.0,B,Rede Decisão,Veterano,Quartzo,5.075,8.9,3.8,4.4,4.3,5.0,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,5.7,5.0,Nível 3 (7o e 8o ano),-1.0,F,N
+2.0,R,Escola Pública,Veterano,Ametista,7.572,6.4,8.3,5.0,6.3,8.1,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.4,10.0,Nível 2 (5o e 6o ano),0.0,M,B
+2.0,N,Escola Pública,Veterano,Ametista,7.518,8.0,8.8,5.6,5.1,7.9,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.9,10.0,Nível 2 (5o e 6o ano),0.0,M,P
+2.0,J,Escola Pública,Veterano,Ametista,7.186,8.5,8.8,7.5,3.4,7.5,Alocado em Fase anterior,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,7.1,10.0,Nível 2 (5o e 6o ano),0.0,M,B
+2.0,K,Escola Pública,Veterano,Quartzo,4.396,9.0,3.8,5.6,1.3,6.9,Mantido na Fase atual,Não avaliado,Mantido na Fase atual,Não avaliado,Não,3.7,5.0,Nível 4 (9o ano),-2.0,F,B
+4.0,E,Escola Pública,Veterano,Ametista,7.117,8.8,8.3,7.5,5.5,7.5,Promovido de Fase + Bolsa,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não,7.3,5.0,Nível 5 (1o EM),-1.0,M,R
+0.0,R,Escola Pública,Ingressante,Topázio,8.775,10.0,10.0,7.5,6.6,7.5,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Sim,9.8,10.0,ALFA  (2o e 3o ano),0.0,F,R
+0.0,T,Escola Pública,Ingressante,Topázio,8.821,8.5,10.0,7.5,7.4,8.1,Promovido de Fase,Promovido de Fase,Não avaliado,Não avaliado,Sim,9.7,10.0,ALFA  (2o e 3o ano),0.0,M,R
+2.0,G,Rede Decisão,Ingressante,Quartzo,4.831,0.0,3.8,7.5,3.4,6.7,Mantido na Fase atual,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não,4.9,10.0,Nível 2 (5o e 6o ano),0.0,M,R
+2.0,C,Escola Pública,Veterano,Ágata,6.511,7.9,2.1,7.5,5.2,7.7,Promovido de Fase,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,8.7,10.0,Nível 2 (5o e 6o ano),0.0,F,B
+2.0,K,Escola Pública,Veterano,Quartzo,3.996,10.0,1.3,5.6,1.3,6.9,Mantido na Fase atual,Não avaliado,Mantido na Fase atual,Não avaliado,Não,3.7,5.0,Nível 3 (7o e 8o ano),-1.0,M,B
+2.0,R,Escola Pública,Veterano,Ágata,5.664,9.5,5.8,5.6,2.0,8.1,Mantido na Fase atual,Promovido de Fase,Mantido na Fase atual,Não avaliado,Não,7.6,2.5,Nível 5 (1o EM),-3.0,F,B
+0.0,L,Escola Pública,Ingressante,Ágata,6.606,9.0,6.7,7.5,4.9,7.2,Mantido na Fase atual,Mantido na Fase atual,Não avaliado,Não avaliado,Não,7.1,5.0,Nível 1 (4o ano),-1.0,M,N
+3.0,J,Rede Decisão,Veterano,Ametista,7.422,7.5,8.6,6.3,6.9,7.5,Promovido de Fase,Promovido de Fase + Bolsa,Promovido de Fase,Não avaliado,Não,8.5,5.0,Nível 4 (9o ano),-1.0,F,N
