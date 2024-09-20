@@ -1,9 +1,9 @@
 [project]
 name = "datathonapp"
 version = "0.1.0"
-description = "Add your description here"
+description = "Streamlit App para análise de dados e previsão das PEDEs da Assoc. Passos Mágicos"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.11,<3.12"
 dependencies = [
     "autogluon>=1.1.1",
     "keras>=3.5.0",
@@ -22,4 +22,5 @@ dev-dependencies = [
     "ipython>=8.27.0",
     "ipywidgets>=8.1.5",
     "nbformat>=5.10.4",
+    "watchdog>=4.0.2",
 ]

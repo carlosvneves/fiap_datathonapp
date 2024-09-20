@@ -10,7 +10,7 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 from sklearn.ensemble import RandomForestClassifier
 import numpy as np
 from streamlit_pandas_profiling import st_profile_report
-import pandas_profiling
+import ydata_profiling
 from scipy import stats
 
 
@@ -41,6 +41,11 @@ def categorical_descriptive_stats(df, column):
 def proportions(df, group_by_column, count_column):
     out = df.groupby([group_by_column, count_column]).size().reset_index(name='count')
     return out
+def mann_witney_u_test(series1, series2):
+    return stats.mannwhitneyu(series1, series2)
+def kruskal_wallis_h_test(series1, series2, series3):
+    return stats.kruskal(series1, series2, series3)
+
 # Função para gráficos básicos usando Plotly
 def basic_plots(df):
     out = proportions(df, "sexo", "pedra")
@@ -190,16 +195,16 @@ def corr_plot(df):
     )
     st.plotly_chart(fig, use_container_width=True)
 
-def get_profile_report(ano):
-    if ano == '2020':
-        df = df_2020_preproc
-    elif ano == '2021':
-        df = df_2021_preproc
-    else:
-        df = df_2022_preproc
-    
-    return df.profile_report(minimal=True)
-    
+# def get_profile_report(ano):
+#     if ano == '2020':
+#         df = df_2020_preproc
+#     elif ano == '2021':
+#         df = df_2021_preproc
+#     else:
+#         df = df_2022_preproc
+#     
+#     return df.profile_report(minimal=True)
+#     
 
 
 
@@ -428,7 +433,37 @@ with aba2:
 
     with col2:
         st.plotly_chart(fig5)
+
     
+    st.markdown("---")
+    st.write('#### Teste para verificar se há diferença estatisticamente significativa quanto ao INDE.')
+    st.write('Como os dados não seguem uma distribuição normal, aplica-se os testes abaixo:')
+    st.write('*Teste de Mann-Whitney*: **entre gêneros**')
+    # Teste de Mann-Whitney
+    male_inde = df_combined[df_combined['sexo']=='M']['inde']
+    female_inde = df_combined[df_combined['sexo']=='F']['inde']
+
+    mw_u,mw_p = stats.mannwhitneyu(male_inde, female_inde)
+ 
+    st.write(f'u-estat:{mw_u:.2f}, p-valor:{mw_p:.2f}')
+    st.markdown('Como :red[p-valor > 0.05], :blue-background[não há] diferença estatisticamente significativa')
+    st.caption('Conclusão: o INDE evolui de modo similar entre alunos e alunas.')
+
+    st.write('*Teste de Kruskal-Wallis*: **entre os anos**')
+    # Teste de Kruskal-Wallis
+    inde_2020 = df_combined[df_combined['ano']==2020]['inde']
+    inde_2021 = df_combined[df_combined['ano']==2021]['inde']
+    inde_2022 = df_combined[df_combined['ano']==2022]['inde']
+
+    k_h, k_p =stats.kruskal(inde_2020, inde_2021, inde_2022)
+    st.write(f'h-estat :{k_h:.2f}, p-valor :{k_p:.2f}')
+    st.markdown('Como :red[p-valor < 0.05], :blue-background[há] diferença estatisticamente significativa.')
+    st.caption('Conclusão: as variações do INDE entre os anos é significativa, sejam elas positivas ou negativas.')
+    
+    st.markdown("---")
+    
+    
+
 
 # Conteúdo da Aba 2 - Gráficos
 with aba3:
