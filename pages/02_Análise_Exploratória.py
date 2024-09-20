@@ -304,7 +304,7 @@ with aba1:
    
     if st.button("Produzir Análise Exploratória Completa"): 
         with st.expander('Exibir'):
-            pr = df.profile_report(minimal=True)
+            pr = df.profile_report(minimal=True) # type: ignore
             if pr:
                 st_profile_report(pr)
             else:
@@ -365,7 +365,7 @@ with aba2:
         st.plotly_chart(fig2)
 
     # # Gráfico 2: Distribuição das classificações de pedra por ano
-    counts = df_combined.groupby(['ano', 'pedra']).size().reset_index(name='counts')
+    counts = df_combined.groupby(['ano', 'pedra']).size().reset_index(name='counts') # type: ignore
 
     # Criando o gráfico de barras empilhadas para a distribuição das classificações
     fig3 = px.bar(
@@ -411,7 +411,7 @@ with aba2:
 
     # Adiciona a linha de tendência
     x_line = np.array([quantis_teoricos.min(), quantis_teoricos.max()])
-    y_line = intercept + slope * x_line
+    y_line = intercept + slope * x_line # type: ignore
     fig5.add_trace(go.Scatter(
         x=x_line,
         y=y_line,

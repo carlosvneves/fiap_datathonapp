@@ -1,4 +1,4 @@
-import streamlit as st 
+import streamlit as st
 
 st.set_page_config(
     page_title="FIAP-DATATHON-3DTAT",
@@ -21,7 +21,7 @@ col1, col2 = st.columns(2)
 
 with col1:
     st.image('images/img_fiap.jpeg', caption='FIAP -Alura Pós-Tech - 3DTAT (setembro/2024)', use_column_width=True, width=30)
-with col2:                
+with col2:
     st.page_link("pages/01_Apresentação.py", label="Entendimento do problema de negócio", icon="📊")
     st.page_link("pages/02_Análise_Exploratória.py", label="Base de dados e Análise Exploratória", icon="🔍")
     st.page_link("pages/03_Modelos_Preditivos.py", label="Modelos preditivos", icon="📈")
