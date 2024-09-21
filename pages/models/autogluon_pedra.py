@@ -79,8 +79,8 @@ def plot_confusion_matrix(y_test, y_pred):
     )
     fig.update_layout(
         title="Matriz de Confusão",
-        xaxis_title="Predicted Label",
-        yaxis_title="True Label",
+        xaxis_title="Rótulo Previsto",
+        yaxis_title="Rótulo Verdadeiro",
     )
     st.plotly_chart(fig)
 
@@ -88,8 +88,7 @@ def display_feature_importance(predictor, test_data):
     importance_df = predictor.feature_importance(test_data)
     importance_df = importance_df.reset_index().rename(columns={'index': 'Feature'})
     importance_df['Importance'] = importance_df['importance'].round(2)
-    st.markdown("### Importância das Features")
-    st.dataframe(importance_df[['Feature', 'Importance']])
+    
     fig = px.bar(
         importance_df,
         x='Importance',
@@ -104,28 +103,50 @@ def display_feature_importance(predictor, test_data):
         height=400 + len(importance_df) * 20
     )
     st.plotly_chart(fig)
+    with st.expander("Mostrar tabela"):
+        st.dataframe(importance_df[['Feature', 'Importance']], hide_index=True)
 
 def main():
-    st.markdown("# Previsão da Pedra-conceito")
     data = load_data()
     data = preprocess_data(data)
     train_data, test_data, X_test = prepare_datasets(data)
     label = "pedra"
-    save_path = "agModels-predictPedra"
-    st.markdown("## Treinando o Modelo ou Carregando Modelo Salvo")
+    save_path = "data/agModels-predictPedra"
+    st.markdown("#### Treinando o Modelo ou Carregando Modelo Salvo")
     with st.spinner('Processando...'):
         predictor = train_or_load_model(train_data, label, save_path)
     st.success('Modelo pronto!')
-    st.markdown("## Avaliando o Modelo")
     y_test, y_pred, perf = evaluate_model(predictor, test_data, X_test)
-    st.markdown(f"**Accuracy:** {perf['accuracy']:.2f}")
-    st.markdown(f"**Balanced Accuracy:** {perf['balanced_accuracy']:.2f}")
-    st.markdown("### Matriz de Confusão")
-    plot_confusion_matrix(y_test, y_pred)
-    st.markdown("## Importância das Features")
+    
+    col1, col2 = st.columns(2)
+    with col1:
+        st.metric("Acurácia", f"{perf['accuracy']*100:.2f}%")
+        st.metric("Acurácia Balanceada", f"{perf['balanced_accuracy']*100:.2f}%")
+    with col2:
+        st.markdown(f""" 
+                    #### O modelo é capaz de identificar a Pedra-Conceito de forma muito precisa. 
+                    Isto se reflete na **Matriz de Confusão**, a qual mostra que o modelo identifica 
+                    a Pedra-Conceito corretamente com **{perf['accuracy']*100:.2f}%** de acurácia.            
+                    
+                    Entre as variáveis escolhidas para o modelo, as três mais importantes são:
+                    - Indicador de Desempenho Acadêmico (IDA);
+                    - Indicador de Engajamento (IEG); e
+                    - Indicador do Ponto de Virada (IPV).                
+                    """)    
+        
+    st.divider()
+
     display_feature_importance(predictor, test_data)
-    st.markdown("## Resumo do Modelo")
-    with st.expander("Ver detalhes do modelo"):
+    st.divider()
+        
+    plot_confusion_matrix(y_test, y_pred)
+        
+    st.divider()        
+    st.markdown("#### Resumo do Modelo")
+    with st.expander("Ver base de dados usada para treinar e testar o modelo"): 
+        st.dataframe(data, hide_index=True)
+    with st.expander("Ver detalhes dos modelos testados usando a biblioteca `Autogluon`"): 
         results = predictor.fit_summary(show_plot=False)
         st.text(results)
+
 

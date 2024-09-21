@@ -1,0 +1,57 @@
+Nome do Campo,Descrição
+INSTITUICAO_ENSINO_ALUNO,Instituição de Ensino do Aluno
+NOME,Nome do Aluno (Dados Anonimizados)
+IDADE_ALUNO,Idade do Aluno
+ANOS_PM,Tempo (Em Anos) que o Aluno está na Passos Mágicos
+FASE_TURMA,Fase e Turma do Aluno na Passos Mágicos
+PONTO_VIRADA,Campo do Tipo Booleano que sinaliza se o Aluno atingiu o Ponto de Virada
+PONTO_VIRADA_ENCODED,Campo do Tipo Booleano que sinaliza se o Aluno atingiu o Ponto de Virada
+INDE,Índice do Desenvolvimento Educacional
+INDE_CONCEITO,Conceito de Classificação do Aluno baseado no INDE
+PEDRA,Classificação do Aluno baseado no INDE
+PEDRA_ENCODED,Classificação do Aluno baseado no INDE (Codificado)
+DESTAQUE_IEG,Observações sobre o Indicador de Engajamento
+DESTAQUE_IDA,Observações sobre o Indicador de Aprendizagem
+DESTAQUE_IPV,Observações sobre o Indicador de Ponto de Virada
+DESTAQUE_IEG_RESULTADO,Observações sobre o Indicador de Engajamento (resultado da análise de sentimento - positivo/negativo)
+DESTAQUE_IDA_RESULTADO,Observações sobre o Indicador de Aprendizagem (resultado da análise de sentimento - positivo/negativo)
+DESTAQUE_IPV_RESULTADO,Observações sobre o Indicador de Ponto de Virada (resultado da análise de sentimento - positivo/negativo)
+DESTAQUE_IEG__RESULTADO_ENCODED,Observações sobre o Indicador de Engajamento (Codificado)
+DESTAQUE_IDA_RESULTADO_ENCODED,Observações sobre o Indicador de Aprendizagem (Codificado)
+DESTAQUE_IPV_RESULTADO_ENCODED,Observações sobre o Indicador de Ponto de Virada (Codificado)
+IAA,Indicador de Autoavaliação
+IEG,Indicador de Engajamento
+IPS,Indicador Psicossocial
+IDA,Indicador de Aprendizagem
+IPP,Indicador Psicopedagógico
+IPV,Indicador de Ponto de Virada
+IAN,Indicador de Adequação ao Nível
+FASE,Fase e Nível de Aprendizado
+TURMA,Número da Turma
+SINALIZADOR_INGRESSANTE,Indica se o Aluno ingressou ou é veterano
+REC_PSICO,Recomendação da Equipe de Psicologia
+REC_EQUIPE_1,Recomendação da Equipe de Avaliação 1
+REC_EQUIPE_2,Recomendação da Equipe de Avaliação 2
+REC_EQUIPE_3,Recomendação da Equipe de Avaliação 3
+REC_EQUIPE_4,Recomendação da Equipe de Avaliação 4
+NIVEL_IDEAL,Nível Ideal do Aluno
+DEFASAGEM,Defasagem do Nível
+ANO_INGRESSO,Ano de Ingresso
+BOLSISTA,Indica se o Aluno é Bolsista
+CG,Classificação Geral do Aluno
+CF,Classificação na Fase
+CT,Classificação na Turma
+NOTA_PORT,Nota Média de Português
+NOTA_MAT,Nota Média de Matemática
+NOTA_ING,Nota Média de Inglês
+QTDE_AVAL,Quantidade de Avaliações
+REC_AVA_1,Recomendação da Equipe de Avaliação 1
+REC_AVAL_2,Recomendação da Equipe de Avaliação 2
+REC_AVAL_3,Recomendação da Equipe de Avaliação 3
+REC_AVAL_4,Recomendação da Equipe de Avaliação 4
+INDICADO_BOLSA,Indica se o Aluno foi indicado para Bolsa
+NA_FASE,Indica se o Aluno está na Fase prevista
+DIFF_FASE,Diferença entre o nível atual e o nível ideal
+SEXO_ENCODED,Campo do Tipo Booleano que sinaliza o Sexo do Aluno
+CORRACA, Campo que indica a cor/raça do Aluno (B-Branco/R-Pardo/P-Preto/A-Amarelo/N-Não Informado)
+

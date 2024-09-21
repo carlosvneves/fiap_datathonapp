@@ -115,13 +115,14 @@ def evaluate_features_importance(df, target_col, categorical_features):
                           height=600 + len(importance_df) * 8
 )
     st.plotly_chart(fig)
-    st.caption(f"""
+    st.markdown(f"""
                Pela alta correlação entre INDE com a classificação geral do aluno, 
                é importante considerar como que outras variáveis podem influenciar. 
                **Parâmetros do ajuste Random-Forest:**
                **R² Score: {r2:.2f}**/
                **Mean Absolute Error:{mae:.2f}**.
-               
+               Como o _ida_ e as pedras são altemente correlacionadas entre si e com o _inde_, 
+               isto se reflete no gráfico acima.
                """)
     
 
@@ -212,13 +213,14 @@ def plot_clusters(corr_df, n_clusters=4):
     kmeans = KMeans(n_clusters=n_clusters, random_state=42)
     labels = kmeans.fit_predict(corr_array)
     corr_df["Cluster"] = labels
+    
     fig = px.scatter(
         corr_df,
         x="Variable",
         y="Correlation",
         color="Cluster",
         title="K-Means Clustering das Variáveis Independentes",
-        color_continuous_scale="Blues",
+        color_continuous_scale="blues",
     )
     fig.update_layout(xaxis_tickangle=-90)
     fig.update_layout(width=800, height=600)
@@ -226,17 +228,16 @@ def plot_clusters(corr_df, n_clusters=4):
     st.plotly_chart(fig)
 
 def main():
-    st.markdown("# Quais variáveis influenciarão na classificação geral do aluno?")
     data, df_2022 = load_data()
     df_2022 = preprocess_df_2022(df_2022)
-    st.markdown("### Análise de importância das features via Random Forest")
+    st.markdown("#### 1. Análise de importância das features via Random Forest")
     categorical_features = ["sexo", "indicado_bolsa", "pedra"]
     df_to_evaluate = df_2022.drop(columns=["nome", "cg", "inde"])
     evaluate_features_importance(
         df_to_evaluate, "cg_normalized_inverted", categorical_features
     )
     st.divider()
-    st.markdown("### Análise de Clusterização")
+    st.markdown("#### 2. Escolha do número de clusters")
     df_for_corr = df_to_evaluate.copy()
     le = LabelEncoder()
     df_for_corr["sexo_encoded"] = le.fit_transform(df_for_corr["sexo"])
@@ -248,19 +249,36 @@ def main():
     corr_df = compute_correlations(df_for_corr, "cg_normalized_inverted")
     col1, col2 = st.columns(2)
     with col1:
-        st.markdown("### Método do Cotovelo")
+        st.markdown("##### Método do Cotovelo")
         plot_elbow_method(corr_df)
     with col2:
-        st.markdown("### Coeficientes de Silhueta")
+        st.markdown("##### Coeficientes de Silhueta")
         plot_silhouette_scores(corr_df)
-    st.caption("**De acordo com os gráficos acima, k = 4 é o melhor número de clusters para a nossa base de dados.**")
+    st.markdown("**De acordo com os gráficos acima, _k = 4_ é o número ótimo de clusters para a nossa base de dados.**") 
     st.divider()
-    st.markdown("### Dendrograma")
+    st.markdown("#### 3. Dendrograma")
     plot_dendrogram(corr_df)
-    st.caption("""**De acordo com o dendrograma acima, estão em verde as variáveis que interferem negativamente na classificação geral do aluno
-               e em vermelho as que interferem positivamente.**""")
+    st.markdown("""**De acordo com o dendrograma acima, estão em :green[verde as variáveis que interferem negativamente] na classificação geral do aluno
+               e em :red[vermelho as que interferem positivamente].**""")
     with st.expander("Ver tabela de correlação"):
         st.dataframe(corr_df.round(2).sort_values(by="Correlation", ascending=True))
     st.divider()
-    st.markdown("### Visualização de Clusterização")
+    st.markdown("#### 4. Visualização de Clusterização")
     plot_clusters(corr_df, n_clusters=4)
+    st.markdown("""
+                As variáveis se organizam em 4 clusters, como pode ser visto no gráfico acima.
+                
+                - **cluster 0**: iaa, ian,ponto_virada_encoded, rec_sintese, diff_fase
+                - **cluster 1**: idade, qtd_aval, anos_pm
+                - **cluster 2**: ieg, ida, ipv, destaque_ieg_resultado_encoded,destaque_ida_resultado_encoded,destaque_ipv_resultado_encoded
+                - **cluster 3**:ips,ipp, sexo_encoded,indicado_bolsa_encoded
+                
+                Nota-se que clusterização é capaz de capturar padrões de agrupamento que podem auxiliar na compreensão dos fatores que 
+                levam um determinado estudante a ter uma classificação melhor ou pior. De uma forma geral, o modelo de clusterização
+                mostra que os indicadores acadêmicos (iaa, rec_sintese  - síntese das recomendações das equipes de avaliação) e 
+                psicossociais (ian, ponto_virada_encoded, diff_fase) são os mais relevantes. 
+                
+                """)
+    with st.expander("Ver base de dados usada para treinar e testar o modelo"): 
+        st.dataframe(data, hide_index=True)
+        st.dataframe(df_2022, hide_index=True)

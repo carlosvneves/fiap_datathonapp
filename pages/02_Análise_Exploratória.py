@@ -17,13 +17,15 @@ from scipy import stats
 st.title("Análise Exploratória")
 
 
+#@st.cache_data
+#def load_data():
 #################################################################################
 # Carregando os dataframes 
 #################################################################################
 df_2020_preproc = pd.read_csv("data/df_2020_preproc.csv")
 df_2021_preproc = pd.read_csv("data/df_2021_preproc.csv")
 df_2022_preproc = pd.read_csv("data/df_2022_preproc.csv")
-
+dicionario_de_dados = pd.read_csv("data/dicionario_dados.csv")
 
 #################################################################################
 #                                   Preparação do Modelo  Preditivo             #
@@ -32,7 +34,7 @@ df_pooled_common = pd.read_csv("data/df_pooled_common.csv").set_index("nome")
 
 #################################################################################
 # Criação das abas
-aba0, aba1, aba2, aba3, aba4 = st.tabs(['Base de Dados','Estatísticas Descritivas', 'Visão longitudinal','Visão transversal', 'Heatmap de Correlação'])
+aba0, aba1, aba2, aba3 = st.tabs(['Base de Dados','Estatísticas Descritivas', 'Visão longitudinal','Visão transversal'])
 # Funções existentes (mantenha as mesmas ou adapte conforme necessário)
 def basic_descriptive_stats(df, column):
     return df[column].describe()
@@ -296,6 +298,19 @@ with aba1:
         else:
             vc = df.value_counts().reset_index().rename(columns={'count':'Contagem'}).reset_index(drop=True)
             st.dataframe(vc, use_container_width=True, hide_index=True)        
+    elif selected == 'Descrição dos campos':
+        st.write('##### Descrição dos campos:')
+        if coluna:            
+            resultado = dicionario_de_dados[dicionario_de_dados['Nome do Campo'].str.strip().str.lower() == coluna.strip().lower()]
+            # Verificar se algum resultado foi encontrado
+            if not resultado.empty:
+                # Exibir as descrições encontradas
+                for i, row in resultado.iterrows():
+                    st.write(f"**Campo:** {row['Nome do Campo']}")                    
+                    st.write(f"**Descrição:** {row['Descrição']}")
+            else:
+                st.write('Nenhum campo encontrado com essa chave de busca.')
+        
     else:
         if coluna:
             st.write('###### Os dados possuem a seguinte dimensão:', df[coluna].shape)
@@ -486,15 +501,3 @@ with aba3:
     basic_plots(df)
 
 
-with aba4:
-    st.header('Heatmap de Correlação')
-    # Selecionar o ano
-    ano = st.selectbox('Selecione o Ano para o Heatmap', ['2020', '2021', '2022'], key='heatmap')
-    if ano == '2020':
-        df = df_2020_preproc
-    elif ano == '2021':
-        df = df_2021_preproc
-    else:
-        df = df_2022_preproc
-    # Gerar e mostrar o heatmap de correlação
-    corr_plot(df)

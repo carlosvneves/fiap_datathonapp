@@ -44,6 +44,7 @@ As dimensões Acadêmica, Psicossocial e Psicopedagógica são medidas por meio 
 **3. Dimensão Psicopedagógica**:
 - **Indicador Psicopedagógico (IPP)**: foca no suporte pedagógico oferecido aos alunos, avaliando a eficácia das intervenções educativas. Alunos que recebem apoio pedagógico adequado tendem a apresentar melhor desempenho acadêmico e desenvolvimento geral.
 - **Indicador do Ponto de Virada (IPV)**: representa momentos chave no desenvolvimento acadêmico ou social do aluno, como quando um aluno supera uma dificuldade significativa ou atinge um marco importante em sua educação. Esse indicador pode mostrar mudanças críticas que afetam o progresso do aluno.
+
 Os indicadores acima ainda podem ser divididos em **Indicadores de Avaliação** (IAN, IDA, IEG e IAA) e **Indicadores de Conselho** (IPS, IPP e IPV). 
 
 #### Pedra, outro conceito importante 
