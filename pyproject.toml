@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11,<3.12"
 dependencies = [
     "autogluon>=1.1.1",
+    "catboost>=1.2.7",
     "keras>=3.5.0",
     "matplotlib>=3.9.2",
     "plotly>=5.24.1",

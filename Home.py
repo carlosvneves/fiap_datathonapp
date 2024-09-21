@@ -24,5 +24,5 @@ with col1:
 with col2:
     st.page_link("pages/01_Apresentação.py", label="Entendimento do problema de negócio", icon="📊")
     st.page_link("pages/02_Análise_Exploratória.py", label="Base de dados e Análise Exploratória", icon="🔍")
-    st.page_link("pages/03_Modelos_Preditivos.py", label="Modelos preditivos", icon="📈")
+    st.page_link("pages/03_Modelos_de_Machine-Learning.py", label="Modelos de Machine Learning", icon="🧠")
     st.page_link("pages/04_Observações.py", label="Observações (ou _insights_)", icon="💡")
