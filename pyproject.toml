@@ -16,6 +16,11 @@ dependencies = [
     "streamlit>=1.38.0",
 ]
 
+[tool.setuptools]
+py-modules = ['data', 'pages', 'images']
+
+
+
 [tool.uv]
 dev-dependencies = [
     "bokeh>=3.5.2",
