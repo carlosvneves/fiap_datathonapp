@@ -536,7 +536,7 @@ pandas==2.2.3
     #   utilsforecast
     #   visions
     #   ydata-profiling
-pandas-profiling==3.6.6
+pandas-profiling<=3.6.6
     # via streamlit-pandas-profiling
 patsy==0.5.6
     # via statsmodels
