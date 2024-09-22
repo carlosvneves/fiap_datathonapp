@@ -3,8 +3,8 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 from scipy import stats
-import ydata_profiling
-from streamlit_pandas_profiling import st_profile_report
+#import ydata_profiling
+#from streamlit_pandas_profiling import st_profile_report
 import numpy as np
 
 
@@ -200,13 +200,13 @@ def tab_estatisticas_descritivas(df_2020_preproc, df_2021_preproc, df_2022_prepr
         else:
             st.write('###### Os dados possuem a seguinte dimensão:', df.shape)
    
-    if st.button("Produzir Análise Exploratória Completa"): 
-        with st.expander('Exibir'):
-            pr = df.profile_report(minimal=True) # type: ignore
-            if pr:
-                st_profile_report(pr)
-            else:
-                st.write('Não disponível')      
+    # if st.button("Produzir Análise Exploratória Completa"): 
+    #     with st.expander('Exibir'):
+    #         pr = df.profile_report(minimal=True) # type: ignore
+    #         if pr:
+    #             st_profile_report(pr)
+    #         else:
+    #             st.write('Não disponível')      
             
             
             
