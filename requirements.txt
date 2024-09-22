@@ -251,7 +251,7 @@ jmespath==1.0.1
     # via
     #   boto3
     #   botocore
-joblib<=1.4.2
+joblib==1.4.2
     # via
     #   autogluon-timeseries
     #   nltk
@@ -536,7 +536,7 @@ pandas==2.2.3
     #   utilsforecast
     #   visions
     #   ydata-profiling
-pandas-profiling<=3.6.6
+pandas-profiling==3.6.6
     # via streamlit-pandas-profiling
 patsy==0.5.6
     # via statsmodels
