@@ -35,7 +35,6 @@ attrs==24.2.0
     #   aiohttp
     #   jsonschema
     #   referencing
-    #   visions
 autogluon==1.1.1
     # via datathonapp (pyproject.toml)
 autogluon-common==1.1.1
@@ -131,8 +130,6 @@ cymem==2.0.8
     #   preshed
     #   spacy
     #   thinc
-dacite==1.8.1
-    # via ydata-profiling
 datasets==2.14.4
     # via
     #   evaluate
@@ -215,8 +212,6 @@ grpcio==1.66.1
     #   tensorboard
 h5py==3.11.0
     # via keras
-htmlmin==0.1.12
-    # via ydata-profiling
 huggingface-hub==0.25.0
     # via
     #   datasets
@@ -233,10 +228,6 @@ idna==3.10
     # via
     #   requests
     #   yarl
-imagehash==4.3.1
-    # via
-    #   visions
-    #   ydata-profiling
 imageio==2.35.1
     # via scikit-image
 jinja2==3.1.4
@@ -246,7 +237,6 @@ jinja2==3.1.4
     #   pydeck
     #   spacy
     #   torch
-    #   ydata-profiling
 jmespath==1.0.1
     # via
     #   boto3
@@ -255,7 +245,6 @@ joblib==1.4.2
     # via
     #   autogluon-timeseries
     #   nltk
-    #   phik
     #   scikit-learn
 jsonschema==4.21.1
     # via
@@ -305,11 +294,8 @@ matplotlib==3.9.2
     #   autogluon-core
     #   catboost
     #   fastai
-    #   phik
     #   seaborn
     #   statsforecast
-    #   wordcloud
-    #   ydata-profiling
 mdurl==0.1.2
     # via markdown-it-py
 ml-dtypes==0.5.0
@@ -326,10 +312,6 @@ multidict==6.1.0
     # via
     #   aiohttp
     #   yarl
-multimethod==1.12
-    # via
-    #   visions
-    #   ydata-profiling
 multiprocess==0.70.15
     # via
     #   datasets
@@ -349,7 +331,6 @@ networkx==3.3
     #   hyperopt
     #   scikit-image
     #   torch
-    #   visions
 nlpaug==1.1.11
     # via autogluon-multimodal
 nltk==3.9.1
@@ -361,7 +342,6 @@ numba==0.60.0
     #   mlforecast
     #   statsforecast
     #   window-ops
-    #   ydata-profiling
 numpy==1.26.4
     # via
     #   accelerate
@@ -380,7 +360,6 @@ numpy==1.26.4
     #   gluonts
     #   h5py
     #   hyperopt
-    #   imagehash
     #   imageio
     #   keras
     #   lightgbm
@@ -395,7 +374,6 @@ numpy==1.26.4
     #   optimum
     #   pandas
     #   patsy
-    #   phik
     #   pyarrow
     #   pydeck
     #   pytorch-lightning
@@ -418,11 +396,8 @@ numpy==1.26.4
     #   torchvision
     #   transformers
     #   utilsforecast
-    #   visions
     #   window-ops
-    #   wordcloud
     #   xgboost
-    #   ydata-profiling
 nvidia-cublas-cu12==12.1.3.1
     # via
     #   nvidia-cudnn-cu12
@@ -526,7 +501,6 @@ pandas==2.2.3
     #   mlforecast
     #   nlpaug
     #   openmim
-    #   phik
     #   ray
     #   seaborn
     #   statsforecast
@@ -534,21 +508,14 @@ pandas==2.2.3
     #   streamlit
     #   streamlit-aggrid
     #   utilsforecast
-    #   visions
-    #   ydata-profiling
-pandas-profiling==3.6.6
-    # via streamlit-pandas-profiling
 patsy==0.5.6
     # via statsmodels
 pdf2image==1.17.0
     # via autogluon-multimodal
-phik==0.12.4
-    # via ydata-profiling
 pillow==10.4.0
     # via
     #   autogluon-multimodal
     #   fastai
-    #   imagehash
     #   imageio
     #   matplotlib
     #   pdf2image
@@ -556,8 +523,6 @@ pillow==10.4.0
     #   scikit-image
     #   streamlit
     #   torchvision
-    #   visions
-    #   wordcloud
 pip==24.2
     # via
     #   fastai
@@ -619,7 +584,6 @@ pydantic==2.9.2
     #   spacy
     #   thinc
     #   weasel
-    #   ydata-profiling
 pydantic-core==2.23.4
     # via pydantic
 pydeck==0.9.1
@@ -648,9 +612,7 @@ pytorch-metric-learning==2.3.0
 pytz==2024.2
     # via pandas
 pywavelets==1.7.0
-    # via
-    #   imagehash
-    #   scikit-image
+    # via scikit-image
 pyyaml==6.0.2
     # via
     #   accelerate
@@ -664,7 +626,6 @@ pyyaml==6.0.2
     #   ray
     #   timm
     #   transformers
-    #   ydata-profiling
 ray==2.10.0
     # via autogluon-core
 referencing==0.35.1
@@ -693,7 +654,6 @@ requests==2.32.3
     #   streamlit
     #   transformers
     #   weasel
-    #   ydata-profiling
 rich==13.8.1
     # via
     #   keras
@@ -734,19 +694,14 @@ scipy==1.12.0
     #   catboost
     #   fastai
     #   hyperopt
-    #   imagehash
     #   lightgbm
-    #   phik
     #   scikit-image
     #   scikit-learn
     #   statsforecast
     #   statsmodels
     #   xgboost
-    #   ydata-profiling
 seaborn==0.13.2
-    # via
-    #   datathonapp (pyproject.toml)
-    #   ydata-profiling
+    # via datathonapp (pyproject.toml)
 sentencepiece==0.2.0
     # via transformers
 seqeval==1.2.2
@@ -792,17 +747,12 @@ srsly==2.4.8
 statsforecast==1.4.0
     # via autogluon-timeseries
 statsmodels==0.14.3
-    # via
-    #   statsforecast
-    #   ydata-profiling
+    # via statsforecast
 streamlit==1.38.0
     # via
     #   datathonapp (pyproject.toml)
     #   streamlit-aggrid
-    #   streamlit-pandas-profiling
 streamlit-aggrid==1.0.5
-    # via datathonapp (pyproject.toml)
-streamlit-pandas-profiling==0.1.3
     # via datathonapp (pyproject.toml)
 sympy==1.13.3
     # via
@@ -887,7 +837,6 @@ tqdm==4.66.5
     #   spacy
     #   statsforecast
     #   transformers
-    #   ydata-profiling
 transformers==4.40.2
     # via
     #   autogluon-multimodal
@@ -895,8 +844,6 @@ transformers==4.40.2
     #   optimum
 triton==2.3.1
     # via torch
-typeguard==4.3.0
-    # via ydata-profiling
 typer==0.12.5
     # via
     #   spacy
@@ -913,7 +860,6 @@ typing-extensions==4.12.2
     #   pytorch-lightning
     #   streamlit
     #   torch
-    #   typeguard
     #   typer
 tzdata==2024.1
     # via pandas
@@ -927,8 +873,6 @@ utilsforecast==0.0.10
     #   mlforecast
 virtualenv==20.26.5
     # via ray
-visions==0.7.6
-    # via ydata-profiling
 wasabi==1.1.3
     # via
     #   spacy
@@ -942,8 +886,6 @@ werkzeug==3.0.4
     # via tensorboard
 window-ops==0.0.15
     # via mlforecast
-wordcloud==1.9.3
-    # via ydata-profiling
 wrapt==1.16.0
     # via smart-open
 xgboost==2.0.3
@@ -954,6 +896,4 @@ xxhash==3.5.0
     #   evaluate
 yarl==1.11.1
     # via aiohttp
-ydata-profiling==4.10.0
-    # via pandas-profiling
 -e .
