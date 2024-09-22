@@ -30,9 +30,14 @@ possíveis tendências;
     - O INDE teve uma queda estatisticamente siginificativa em 2021, provavelmente como
     efeito da pandemia de COVID-19. Porém, em 2022 houve recuperação, com possível reversão de tendencia;
     - Não foi possível identificar diferença estatisticamente siginificativa na evolução do INDE em função
-    do gênero dos alunos os anos de 2020 a 2023;
+    do gênero dos alunos os anos de 2020 a 2022;
+    - Há diferença estatisticamente significativa no INDE ao longo dos anos;
     - Houve aumento da proporção de alunos com pedras Ágata e Topázio entre 2020 e 2022;
-    - Entre 2020 e 2022, houve redução da proporção de alunos com bolsas de estudos em 2020, mas com umaumento em 2021;
+    - Entre 2020 e 2022:
+        - houve redução da proporção de alunos com bolsas de estudos em 2020, mas com umaumento em 2021;
+        - ao contrário do que se espera intuitivamente, a correlação entre o status de bolsista e o INDE é negativa, assim como entre o INDE e os anos de Passos Mágicos;
+        - as correlações mais significativas com o INDE ocorrem para: iaa, ipv, ida, ieg;
+        - as distribuições de INDE entre os sexos é a mesma para os gêneros masculino e feminino;
     - Na análise  transversal, há o detalhamento de alguns fatores para cada ano, como por exemplo, 
     a quantidade de bolsas de estudos, o gênero dos alunos, entre outros.
 
